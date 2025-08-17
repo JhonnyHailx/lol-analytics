@@ -1,0 +1,97 @@
+# Dicionário de Dados - historical_matches
+
+gameid               : string     # Identificador único do confronto (match series)
+datacompleteness     : string     # Status do preenchimento dos dados (complete/partial)
+url                  : string     # URL de referência (se aplicável)
+league               : string     # Nome da liga/tournament (ex: LFL2, LPL)
+year                 : int        # Ano do confronto
+split                : string     # Fase/temporada (ex: Winter, Split 1)
+playoffs             : int        # Indicador de playoffs (0 = não, 1 = sim)
+date                 : datetime   # Data/hora da partida
+game                 : int        # Número da partida dentro do confronto (ex: 1,2,3...)
+patch                : string     # Versão do patch
+
+participantid        : int/string # Identificador do participante (jogador ou equipe)
+side                 : string     # Lado da equipe (Blue/Red)
+position             : string     # Posição do jogador (top/jng/mid/bot/sup)
+playername           : string     # Nome do jogador
+playerid             : string     # ID único do jogador
+teamname             : string     # Nome da equipe
+teamid               : string     # ID único da equipe
+
+champion             : string     # Campeão utilizado
+ban1-5               : string     # Campeões banidos
+pick1-5              : string     # Campeões selecionados
+
+# Métricas gerais e stats
+gamelength           : float      # Duração da partida (segundos/minutos)
+result               : int        # Resultado (0 = derrota, 1 = vitória)
+kills, deaths, assists: int       # Estatísticas de jogador
+teamkills            : int        # Abates totais por equipe
+teamdeaths           : int        # Mortes totais por equipe
+
+# Multi-kills & First blood
+doublekills          : int
+triplekills          : int
+quadrakills          : int
+pentakills           : int
+firstblood           : int        # (Flag - se houve first blood)
+
+# Eventos objetivos de mapa (dragons, baron etc.)
+firstdragon          : int
+dragons              : int
+opp_dragons          : int
+elementaldrakes      : int
+opp_elementaldrakes  : int
+infernals, mountains, clouds, oceans, chemtechs, hextechs, elders, opp_elders : int
+
+firstherald, heralds, opp_heralds, void_grubs, opp_void_grubs : int
+firstbaron, barons, opp_barons : int
+firsttower, towers, opp_towers : int
+firstmidtower, firsttothreetowers : int
+
+turretplates, opp_turretplates, inhibitors, opp_inhibitors : int
+
+# Dano e stats avançados
+damagetochampions    : float
+dpm                  : float      # Dano por minuto
+damageshare          : float      # Participação no dano total do time (%)
+damagetakenperminute : float
+damagemitigatedperminute : float
+damagetotowers       : float
+
+# Visão e wards
+wardsplaced          : int
+wpm                  : float      # Wards por minuto
+wardskilled          : int
+wcpm                 : float      # Ward kills por minuto
+controlwardsbought   : int
+visionscore, vspm    : float
+
+# Ouro
+totalgold            : float
+earnedgold           : float
+earned_gpm           : float
+earnedgoldshare      : float
+goldspent            : float
+gspd, gpr            : float
+
+# CS/Monstros
+total_cs             : int
+minionkills          : int
+monsterkills         : int
+monsterkillsownjungle: int
+monsterkillsenemyjungle: int
+cspm                 : float
+
+# Status e vantagens por tempo ("at10", "at15", ...)
+goldat10, xpat10, csat10, opp_goldat10 etc. : float/int
+golddiffat10, xpdiffat10, csdiffat10        : float/int
+killsat10, assistsat10, deathsat10, opp_killsat10, ...   : int
+(repetir esse bloco para "at15", "at20", "at25")
+
+# Observações finais:
+# - Para players as linhas são positions válidas (top/jng/mid/bot/sup), para time é "team"
+# - Para sumarizar um BO, agrupe por gameid e conte o resultado por team.
+# - Não faça soma direta entre jogadores e times nas análises!
+
