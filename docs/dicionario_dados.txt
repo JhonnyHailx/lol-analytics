@@ -95,3 +95,9 @@ killsat10, assistsat10, deathsat10, opp_killsat10, ...   : int
 # - Para sumarizar um BO, agrupe por gameid e conte o resultado por team.
 # - Não faça soma direta entre jogadores e times nas análises!
 
+Dragões da partida: A soma dos dragões (“dragons_total”) é igual à soma dos dragões elementais (infernals, mountains, clouds, oceans, chemtechs, hextechs) + elder(s).
+
+Alma do jogo: É do tipo do elemental que mais aparece no game (comparando ambos times).
+
+Alma conquistada: O time que fizer 4 elementais na partida conquista a alma.
+

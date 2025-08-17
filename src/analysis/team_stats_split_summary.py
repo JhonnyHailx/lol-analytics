@@ -1,14 +1,17 @@
 import sqlite3
 import pandas as pd
 
+drake_types = ['infernals', 'mountains', 'clouds', 'oceans', 'chemtechs', 'hextechs', 'elders']
+
 conn = sqlite3.connect("data/curated/historical_matches.db")
 team_df = pd.read_sql_query("SELECT * FROM matches WHERE position = 'team'", conn)
 conn.close()
 
-# Agrupando por teamname e split
+team_df['dragons_total'] = team_df[drake_types].sum(axis=1)
+
 team_split_summary = team_df.groupby(['teamname', 'split']).agg({
     'teamkills': 'sum',
-    'dragons': 'sum',
+    'dragons_total': 'sum',
     'barons': 'sum',
     'heralds': 'sum',
     'towers': 'sum',

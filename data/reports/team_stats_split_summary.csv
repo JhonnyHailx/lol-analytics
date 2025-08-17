@@ -1,4 +1,4 @@
-teamname,split,teamkills,dragons,barons,heralds,towers,totalgold
+teamname,split,teamkills,dragons_total,barons,heralds,towers,totalgold
 100 Thieves,Split 1,136,18.0,5.0,4.0,56.0,394612
 100 Thieves,Split 2,295,48.0,17.0,9.0,120.0,1223884
 100 Thieves,Split 3,74,16.0,2.0,3.0,21.0,381020
@@ -19,10 +19,10 @@ Ankora Gaming,Winter,88,9.0,1.0,2.0,21.0,281843
 Anubis Gaming,Spring,286,39.0,7.0,5.0,83.0,1125102
 Anubis Gaming,Summer,282,42.0,10.0,10.0,114.0,1069015
 Anubis Gaming,Winter,512,46.0,12.0,16.0,205.0,1784285
-Anyone's Legend,Split 1,438,57.0,19.0,12.0,166.0,1582842
-Anyone's Legend,Split 2,1062,159.0,39.0,32.0,411.0,3645324
-Anyone's Legend,Split 2 Placements,141,19.0,6.0,4.0,51.0,394525
-Anyone's Legend,Split 3,382,51.0,14.0,11.0,133.0,1457540
+Anyone's Legend,Split 1,438,0.0,19.0,12.0,166.0,1582842
+Anyone's Legend,Split 2,1062,0.0,39.0,32.0,411.0,3645324
+Anyone's Legend,Split 2 Placements,141,0.0,6.0,4.0,51.0,394525
+Anyone's Legend,Split 3,382,0.0,14.0,11.0,133.0,1457540
 Apex Mission Impossible,Split 1,207,38.0,6.0,9.0,81.0,1112587
 Apex Predator,Summer,117,14.0,4.0,2.0,44.0,316652
 Aurora,Spring,256,31.0,5.0,6.0,80.0,986027
@@ -71,10 +71,10 @@ Berlin International Gaming,Winter,372,48.0,17.0,20.0,182.0,1295249
 Beşiktaş Esports,Spring,220,32.0,7.0,9.0,87.0,1020976
 Beşiktaş Esports,Summer,142,26.0,6.0,6.0,66.0,630268
 Beşiktaş Esports,Winter,257,35.0,7.0,8.0,88.0,1012573
-Bilibili Gaming,Split 1,381,55.0,15.0,6.0,161.0,1359448
-Bilibili Gaming,Split 2,1135,160.0,38.0,40.0,452.0,3894394
-Bilibili Gaming,Split 2 Placements,101,17.0,6.0,2.0,53.0,387431
-Bilibili Gaming,Split 3,491,61.0,18.0,12.0,189.0,1640763
+Bilibili Gaming,Split 1,381,0.0,15.0,6.0,161.0,1359448
+Bilibili Gaming,Split 2,1135,0.0,38.0,40.0,452.0,3894394
+Bilibili Gaming,Split 2 Placements,101,0.0,6.0,2.0,53.0,387431
+Bilibili Gaming,Split 3,491,0.0,18.0,12.0,189.0,1640763
 Black Dog,Forge,66,8.0,0.0,3.0,25.0,248744
 Blue Otter,Split 1,351,55.0,12.0,12.0,122.0,1366656
 Blue Otter,Split 2,148,24.0,4.0,4.0,42.0,642502
@@ -194,10 +194,10 @@ E WIE EINFACH E-SPORTS,Finals,59,13.0,2.0,1.0,22.0,308387
 E WIE EINFACH E-SPORTS,Spring,384,50.0,14.0,14.0,146.0,1572602
 E WIE EINFACH E-SPORTS,Summer,169,25.0,6.0,3.0,66.0,764945
 E WIE EINFACH E-SPORTS,Winter,436,71.0,13.0,13.0,185.0,1757672
-EDward Gaming,Split 1,122,19.0,6.0,5.0,56.0,596864
-EDward Gaming,Split 2,239,46.0,6.0,12.0,104.0,1064186
-EDward Gaming,Split 2 Placements,76,11.0,2.0,4.0,28.0,422787
-EDward Gaming,Split 3,278,49.0,11.0,5.0,122.0,1008297
+EDward Gaming,Split 1,122,0.0,6.0,5.0,56.0,596864
+EDward Gaming,Split 2,239,0.0,6.0,12.0,104.0,1064186
+EDward Gaming,Split 2 Placements,76,0.0,2.0,4.0,28.0,422787
+EDward Gaming,Split 3,278,0.0,11.0,5.0,122.0,1008297
 EKO Esports,Spring,290,32.0,10.0,7.0,105.0,965913
 EKO Esports,Summer,156,15.0,5.0,1.0,40.0,629443
 EKO Esports,Winter,105,21.0,3.0,4.0,28.0,480036
@@ -263,10 +263,10 @@ Fuego,Split 2,142,18.0,6.0,5.0,55.0,516146
 Fukuoka SoftBank HAWKS gaming,Split 1,239,27.0,8.0,11.0,68.0,934110
 Fukuoka SoftBank HAWKS gaming,Split 2,187,24.0,7.0,10.0,81.0,1020500
 Fukuoka SoftBank HAWKS gaming,Split 3,121,15.0,4.0,3.0,44.0,543565
-FunPlus Phoenix,Split 1,97,16.0,2.0,6.0,41.0,553975
-FunPlus Phoenix,Split 2,899,120.0,26.0,29.0,314.0,3528488
-FunPlus Phoenix,Split 2 Placements,151,22.0,4.0,6.0,58.0,559736
-FunPlus Phoenix,Split 3,214,44.0,4.0,11.0,66.0,1157639
+FunPlus Phoenix,Split 1,97,0.0,2.0,6.0,41.0,553975
+FunPlus Phoenix,Split 2,899,0.0,26.0,29.0,314.0,3528488
+FunPlus Phoenix,Split 2 Placements,151,0.0,4.0,6.0,58.0,559736
+FunPlus Phoenix,Split 3,214,0.0,4.0,11.0,66.0,1157639
 G2 Esports,Spring,468,88.0,28.0,18.0,238.0,2148939
 G2 Esports,Summer,37,5.0,2.0,2.0,20.0,119871
 G2 Esports,Winter,296,50.0,11.0,10.0,142.0,1198350
@@ -359,20 +359,20 @@ Ici Japon Corp. Esport,Summer,193,36.0,9.0,7.0,83.0,874548
 Ici Japon Corp. Esport,Winter,267,38.0,13.0,9.0,119.0,977213
 Icon Esports,Split 1,205,33.0,8.0,7.0,65.0,754781
 Icon Esports (Mexican Team),Split 1,41,5.0,2.0,0.0,16.0,171077
-Invictus Gaming,Split 1,243,35.0,8.0,10.0,91.0,917386
-Invictus Gaming,Split 2,1096,180.0,48.0,28.0,425.0,4321143
-Invictus Gaming,Split 2 Placements,127,23.0,6.0,4.0,61.0,394551
-Invictus Gaming,Split 3,333,46.0,13.0,11.0,111.0,1117964
+Invictus Gaming,Split 1,243,0.0,8.0,10.0,91.0,917386
+Invictus Gaming,Split 2,1096,0.0,48.0,28.0,425.0,4321143
+Invictus Gaming,Split 2 Placements,127,0.0,6.0,4.0,61.0,394551
+Invictus Gaming,Split 3,333,0.0,13.0,11.0,111.0,1117964
 Isurus,Split 3,89,14.0,3.0,4.0,40.0,419092
 Isurus Estral,Split 1,100,17.0,6.0,4.0,56.0,445990
 Isurus Estral,Split 2,385,63.0,7.0,18.0,168.0,1639088
 IziDream,Spring,195,26.0,7.0,7.0,67.0,788973
 IziDream,Summer,170,31.0,11.0,6.0,77.0,556894
 IziDream,Winter,431,48.0,14.0,12.0,153.0,1436399
-JD Gaming,Split 1,358,50.0,13.0,16.0,183.0,1605790
-JD Gaming,Split 2,833,119.0,30.0,31.0,352.0,3195057
-JD Gaming,Split 2 Placements,89,9.0,2.0,4.0,42.0,343832
-JD Gaming,Split 3,294,41.0,11.0,13.0,114.0,1345245
+JD Gaming,Split 1,358,0.0,13.0,16.0,183.0,1605790
+JD Gaming,Split 2,833,0.0,30.0,31.0,352.0,3195057
+JD Gaming,Split 2 Placements,89,0.0,2.0,4.0,42.0,343832
+JD Gaming,Split 3,294,0.0,11.0,13.0,114.0,1345245
 Joblife,Flash In,97,21.0,4.0,4.0,40.0,583213
 Joblife,Spring,203,41.0,8.0,7.0,75.0,900218
 Joblife,Summer,287,43.0,12.0,6.0,96.0,1112395
@@ -415,14 +415,14 @@ Keypulse Esports,Spring,129,9.0,2.0,1.0,30.0,386507
 Keypulse Esports,Summer,21,4.0,2.0,0.0,10.0,69997
 Keypulse Esports,Winter,93,18.0,3.0,3.0,35.0,302485
 Kiedyś Miałem Fun,Winter,531,55.0,17.0,18.0,208.0,1639792
-LGD Gaming,Split 1,152,25.0,5.0,5.0,46.0,551205
-LGD Gaming,Split 2,273,37.0,12.0,8.0,111.0,1046831
-LGD Gaming,Split 2 Placements,116,18.0,2.0,2.0,33.0,511773
-LGD Gaming,Split 3,212,31.0,5.0,7.0,85.0,972313
-LNG Esports,Split 1,82,11.0,3.0,5.0,29.0,555165
-LNG Esports,Split 2,143,30.0,7.0,5.0,76.0,668292
-LNG Esports,Split 2 Placements,57,8.0,0.0,2.0,15.0,302982
-LNG Esports,Split 3,216,28.0,5.0,10.0,76.0,1016432
+LGD Gaming,Split 1,152,0.0,5.0,5.0,46.0,551205
+LGD Gaming,Split 2,273,0.0,12.0,8.0,111.0,1046831
+LGD Gaming,Split 2 Placements,116,0.0,2.0,2.0,33.0,511773
+LGD Gaming,Split 3,212,0.0,5.0,7.0,85.0,972313
+LNG Esports,Split 1,82,0.0,3.0,5.0,29.0,555165
+LNG Esports,Split 2,143,0.0,7.0,5.0,76.0,668292
+LNG Esports,Split 2 Placements,57,0.0,0.0,2.0,15.0,302982
+LNG Esports,Split 3,216,0.0,5.0,10.0,76.0,1016432
 LODIS,Spring,233,34.0,12.0,3.0,78.0,1012522
 LODIS,Winter,204,39.0,6.0,3.0,65.0,946447
 LOUD,Split 1,158,26.0,11.0,4.0,68.0,685500
@@ -517,10 +517,10 @@ Nightbirds,Summer,306,36.0,13.0,11.0,135.0,1016748
 Nightbirds,Winter,47,10.0,1.0,1.0,14.0,263099
 Nigma Galaxy,Spring,302,25.0,4.0,2.0,75.0,860923
 Nigma Galaxy,Winter,216,20.0,1.0,1.0,19.0,674159
-Ninjas in Pyjamas,Split 1,291,48.0,13.0,10.0,128.0,1139176
-Ninjas in Pyjamas,Split 2,687,95.0,25.0,21.0,215.0,2915937
-Ninjas in Pyjamas,Split 2 Placements,82,8.0,5.0,3.0,33.0,344662
-Ninjas in Pyjamas,Split 3,393,58.0,21.0,12.0,155.0,1455073
+Ninjas in Pyjamas,Split 1,291,0.0,13.0,10.0,128.0,1139176
+Ninjas in Pyjamas,Split 2,687,0.0,25.0,21.0,215.0,2915937
+Ninjas in Pyjamas,Split 2 Placements,82,0.0,5.0,3.0,33.0,344662
+Ninjas in Pyjamas,Split 3,393,0.0,21.0,12.0,155.0,1455073
 Nocturne Gale,Split 3,363,41.0,14.0,7.0,128.0,919536
 Nongshim Esports Academy,Kickoff,161,19.0,4.0,6.0,49.0,714060
 Nongshim Esports Academy,Rounds 1-2,619,103.0,21.0,24.0,252.0,2827827
@@ -540,9 +540,9 @@ OKSavingsBank BRION Challengers,Rounds 3-5,185,22.0,5.0,4.0,52.0,946121
 Odivelas Sports Club,Spring,276,33.0,10.0,10.0,92.0,937831
 Odivelas Sports Club,Summer,59,6.0,1.0,2.0,20.0,110557
 Odivelas Sports Club,Winter,154,22.0,4.0,5.0,58.0,556013
-Oh My God,Split 1,174,22.0,8.0,4.0,64.0,769663
-Oh My God,Split 2,144,22.0,5.0,6.0,49.0,733277
-Oh My God,Split 2 Placements,54,10.0,2.0,2.0,20.0,328281
+Oh My God,Split 1,174,0.0,8.0,4.0,64.0,769663
+Oh My God,Split 2,144,0.0,5.0,6.0,49.0,733277
+Oh My God,Split 2 Placements,54,0.0,2.0,2.0,20.0,328281
 Once Upon A Team,Spring,275,39.0,7.0,9.0,99.0,1085687
 Once Upon A Team,Summer,163,26.0,6.0,7.0,72.0,631896
 Once Upon A Team,Winter,103,17.0,3.0,5.0,39.0,452443
@@ -604,9 +604,9 @@ Rise Gaming,Split 1,265,51.0,11.0,9.0,114.0,1343862
 Rise Gaming,Split 2,103,21.0,3.0,2.0,35.0,518867
 Rogue,Spring,245,49.0,11.0,9.0,97.0,1185131
 Rogue,Winter,89,19.0,5.0,3.0,42.0,563632
-Royal Never Give Up,Split 1,129,18.0,6.0,2.0,57.0,675710
-Royal Never Give Up,Split 2,146,21.0,3.0,4.0,53.0,725455
-Royal Never Give Up,Split 2 Placements,98,18.0,2.0,1.0,29.0,446756
+Royal Never Give Up,Split 1,129,0.0,6.0,2.0,57.0,675710
+Royal Never Give Up,Split 2,146,0.0,3.0,4.0,53.0,725455
+Royal Never Give Up,Split 2 Placements,98,0.0,2.0,1.0,29.0,446756
 Ruddy Esports,Spring,310,38.0,9.0,8.0,112.0,1112390
 Ruddy Esports,Summer,60,6.0,0.0,1.0,8.0,293432
 Ruddy Esports,Winter,250,31.0,4.0,9.0,93.0,800792
@@ -701,10 +701,10 @@ Team Valiant,Winter,367,49.0,10.0,13.0,141.0,1147990
 Team Vitality,Spring,310,42.0,10.0,8.0,122.0,1264985
 Team Vitality,Summer,11,1.0,0.0,0.0,3.0,93939
 Team Vitality,Winter,207,33.0,8.0,6.0,89.0,910221
-Team WE,Split 1,109,14.0,3.0,3.0,27.0,557454
-Team WE,Split 2,978,147.0,36.0,24.0,342.0,3716608
-Team WE,Split 2 Placements,145,23.0,5.0,7.0,66.0,749751
-Team WE,Split 3,417,64.0,15.0,14.0,152.0,1741873
+Team WE,Split 1,109,0.0,3.0,3.0,27.0,557454
+Team WE,Split 2,978,0.0,36.0,24.0,342.0,3716608
+Team WE,Split 2 Placements,145,0.0,5.0,7.0,66.0,749751
+Team WE,Split 3,417,0.0,15.0,14.0,152.0,1741873
 TeamOrangeGaming,Finals,61,7.0,1.0,1.0,11.0,209527
 TeamOrangeGaming,Spring,393,49.0,15.0,16.0,161.0,1475516
 TeamOrangeGaming,Summer,252,29.0,10.0,11.0,84.0,772387
@@ -714,24 +714,24 @@ The Forbidden Five,Summer,92,12.0,0.0,2.0,15.0,466129
 The Secret Club,Spring,43,2.0,0.0,0.0,3.0,171959
 The Secret Club,Summer,70,5.0,1.0,1.0,23.0,210127
 The Secret Club,Winter,152,23.0,2.0,4.0,39.0,499645
-ThunderTalk Gaming,Split 1,310,48.0,13.0,15.0,124.0,1202870
-ThunderTalk Gaming,Split 2,501,66.0,9.0,26.0,180.0,2461416
-ThunderTalk Gaming,Split 2 Placements,76,10.0,3.0,3.0,36.0,343337
-ThunderTalk Gaming,Split 3,276,51.0,10.0,11.0,104.0,1261353
-Top Esports,Split 1,499,65.0,14.0,14.0,225.0,1918464
-Top Esports,Split 2,933,127.0,40.0,24.0,395.0,3557007
-Top Esports,Split 2 Placements,115,17.0,2.0,4.0,49.0,371077
-Top Esports,Split 3,387,58.0,18.0,8.0,152.0,1436285
+ThunderTalk Gaming,Split 1,310,0.0,13.0,15.0,124.0,1202870
+ThunderTalk Gaming,Split 2,501,0.0,9.0,26.0,180.0,2461416
+ThunderTalk Gaming,Split 2 Placements,76,0.0,3.0,3.0,36.0,343337
+ThunderTalk Gaming,Split 3,276,0.0,10.0,11.0,104.0,1261353
+Top Esports,Split 1,499,0.0,14.0,14.0,225.0,1918464
+Top Esports,Split 2,933,0.0,40.0,24.0,395.0,3557007
+Top Esports,Split 2 Placements,115,0.0,2.0,4.0,49.0,371077
+Top Esports,Split 3,387,0.0,18.0,8.0,152.0,1436285
 UCAM Esports,Spring,217,21.0,10.0,5.0,100.0,963064
 UCAM Esports,Summer,269,42.0,7.0,11.0,101.0,898814
 UCAM Esports,Winter,158,21.0,4.0,4.0,72.0,747186
 ULF Esports,Spring,651,91.0,24.0,14.0,249.0,2263621
 ULF Esports,Summer,167,24.0,6.0,6.0,72.0,611909
 ULF Esports,Winter,133,18.0,4.0,8.0,48.0,751983
-Ultra Prime,Split 1,150,29.0,9.0,7.0,56.0,719502
-Ultra Prime,Split 2,169,31.0,7.0,7.0,68.0,807923
-Ultra Prime,Split 2 Placements,185,30.0,10.0,9.0,75.0,841227
-Ultra Prime,Split 3,268,47.0,8.0,13.0,108.0,1263310
+Ultra Prime,Split 1,150,0.0,9.0,7.0,56.0,719502
+Ultra Prime,Split 2,169,0.0,7.0,7.0,68.0,807923
+Ultra Prime,Split 2 Placements,185,0.0,10.0,9.0,75.0,841227
+Ultra Prime,Split 3,268,0.0,8.0,13.0,108.0,1263310
 Underworld Esports,Winter,214,39.0,12.0,9.0,97.0,922033
 Unicorns of Love Sexy Edition,Finals,252,29.0,7.0,7.0,103.0,901985
 Unicorns of Love Sexy Edition,Spring,308,43.0,14.0,9.0,137.0,1314171
@@ -772,10 +772,10 @@ WLGaming Esports,Spring,263,33.0,7.0,7.0,80.0,886791
 WLGaming Esports,Summer,78,5.0,1.0,1.0,21.0,277435
 WLGaming Esports,Winter,337,42.0,8.0,10.0,125.0,1083681
 We Can Win,Forge,59,9.0,2.0,3.0,24.0,258827
-Weibo Gaming,Split 1,244,38.0,8.0,10.0,114.0,978632
-Weibo Gaming,Split 2,867,140.0,28.0,32.0,325.0,3643519
-Weibo Gaming,Split 2 Placements,79,17.0,4.0,3.0,46.0,344639
-Weibo Gaming,Split 3,341,47.0,13.0,13.0,134.0,1489021
+Weibo Gaming,Split 1,244,0.0,8.0,10.0,114.0,978632
+Weibo Gaming,Split 2,867,0.0,28.0,32.0,325.0,3643519
+Weibo Gaming,Split 2 Placements,79,0.0,4.0,3.0,46.0,344639
+Weibo Gaming,Split 3,341,0.0,13.0,13.0,134.0,1489021
 West Point Esports,Split 1,546,51.0,14.0,16.0,199.0,1624243
 West Point Esports,Split 2,945,74.0,24.0,29.0,301.0,2398132
 West Point Esports,Split 3,156,15.0,7.0,2.0,42.0,522208

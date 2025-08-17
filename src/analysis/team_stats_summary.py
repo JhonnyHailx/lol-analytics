@@ -1,16 +1,17 @@
 import sqlite3
 import pandas as pd
 
-conn = sqlite3.connect("data/curated/historical_matches.db")
+drake_types = ['infernals', 'mountains', 'clouds', 'oceans', 'chemtechs', 'hextechs', 'elders']
 
-# Seleciona somente as linhas "team"
+conn = sqlite3.connect("data/curated/historical_matches.db")
 team_df = pd.read_sql_query("SELECT * FROM matches WHERE position = 'team'", conn)
 conn.close()
 
-# Métricas importantes para times
+team_df['dragons_total'] = team_df[drake_types].sum(axis=1)
+
 team_summary = team_df.groupby("teamname").agg({
     'teamkills': 'sum',
-    'dragons': 'sum',
+    'dragons_total': 'sum',
     'barons': 'sum',
     'heralds': 'sum',
     'towers': 'sum',
@@ -18,7 +19,6 @@ team_summary = team_df.groupby("teamname").agg({
     'visionscore': 'sum'
 }).reset_index()
 
-# Salva relatório
 team_summary.to_csv("data/reports/team_stats_summary.csv", index=False)
 print(team_summary.head(10))
 print("Relatório salvo em data/reports/team_stats_summary.csv")
