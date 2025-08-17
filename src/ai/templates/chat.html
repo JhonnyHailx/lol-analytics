@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>LOL Analytics Chatbot - Gemini Flash</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    .fade-in { animation: fadeIn 0.35s ease forwards; opacity: 0; }
+    @keyframes fadeIn { to { opacity: 1; transform: translateY(0);} from { opacity: 0; transform: translateY(6px);} }
+    .nice-scroll::-webkit-scrollbar { width: 10px; }
+    .nice-scroll::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.25); border-radius: 999px; }
+    .nice-scroll::-webkit-scrollbar-track { background: transparent; }
+  </style>
+</head>
+<body class="min-h-screen bg-gradient-to-br from-indigo-900 via-slate-900 to-emerald-900 text-slate-100 antialiased">
+  <div class="max-w-5xl mx-auto px-4 py-10">
+    <!-- Top Bar -->
+    <header class="flex items-center justify-between mb-6">
+      <div class="flex items-center gap-3">
+        <div class="w-10 h-10 rounded-xl bg-emerald-400/20 ring-1 ring-emerald-400/30 flex items-center justify-center">
+          <span class="text-emerald-300 font-bold">LoL</span>
+        </div>
+        <div>
+          <h1 class="text-xl md:text-2xl font-semibold tracking-tight">LOL Analytics Chatbot</h1>
+          <p class="text-slate-300/80 text-sm">Gemini Flash • Estatísticas, builds e dicas rápidas</p>
+        </div>
+      </div>
+      <div class="flex items-center gap-2">
+        <button id="btn-clear" class="px-3.5 py-2 rounded-lg bg-white/10 hover:bg-white/15 text-slate-100 transition shadow-sm border border-white/10">
+          Limpar chat
+        </button>
+      </div>
+    </header>
+
+    <div class="grid md:grid-cols-[320px_minmax(0,1fr)] gap-5">
+      <!-- Sugestões -->
+      <aside class="space-y-4">
+        <div class="rounded-2xl bg-white/5 border border-white/10 p-4">
+          <h2 class="font-semibold text-slate-100 mb-2">Sugestões rápidas</h2>
+          <div class="grid gap-2">
+            <button class="suggest px-3 py-2 rounded-lg bg-white/5 hover:bg-white/10 text-left transition text-sm" data-q="Quero analisar uma partida profissional de League of Legends.">
+              Quero analisar uma partida profissional de League of Legends.
+            </button>
+            <button class="suggest px-3 py-2 rounded-lg bg-white/5 hover:bg-white/10 text-left transition text-sm" data-q="Quais times jogam hoje e qual o formato da série?">
+              Quais times jogam hoje e qual o formato da série?
+            </button>
+            <button class="suggest px-3 py-2 rounded-lg bg-white/5 hover:bg-white/10 text-left transition text-sm" data-q="Me diga a melhor composição para jogar de blue side.">
+              Me diga a melhor composição para jogar de blue side.
+            </button>
+          </div>
+        </div>
+        <div class="rounded-2xl bg-white/5 border border-white/10 p-4">
+          <h2 class="font-semibold text-slate-100 mb-2">Dicas</h2>
+          <ul class="text-sm text-slate-300/90 space-y-2">
+            <li>Peça para calcular probabilidade ou EV após informar odds.</li>
+            <li>Analise comps ou picks por lane informando os jogadores.</li>
+            <li>Informe sua banca/stake para sugestões personalizadas.</li>
+          </ul>
+        </div>
+      </aside>
+
+      <!-- Área do chat -->
+      <main class="rounded-2xl bg-white/5 border border-white/10 backdrop-blur-sm overflow-hidden flex flex-col h-[72vh]">
+        <!-- Mensagens -->
+        <div id="messages" class="flex-1 overflow-y-auto nice-scroll p-4 md:p-6 space-y-3"></div>
+
+        <!-- Barra inferior -->
+        <div class="p-3 md:p-4 border-t border-white/10 bg-slate-900/40">
+          <div class="flex items-end gap-2">
+            <div class="flex-1">
+              <label for="input" class="sr-only">Digite sua pergunta</label>
+              <div class="relative">
+                <textarea id="input" rows="1" placeholder="Pergunte sobre análise de partida, odds, comps ou picks..." class="w-full resize-none rounded-xl bg-slate-800/70 border border-white/10 focus:border-emerald-400/40 outline-none p-3 pr-24 placeholder:text-slate-400 text-slate-100 shadow-inner"></textarea>
+                <div class="absolute right-2 bottom-2 flex items-center gap-2">
+                  <button id="btn-send" class="px-3 py-1.5 rounded-lg bg-emerald-500/90 hover:bg-emerald-500 text-white font-medium shadow-sm">Enviar</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </main>
+    </div>
+    <!-- Toast -->
+    <div id="toast" class="fixed left-1/2 -translate-x-1/2 bottom-6 px-4 py-2 rounded-lg bg-black/70 text-white text-sm shadow-lg opacity-0 pointer-events-none transition">
+      Copiado!
+    </div>
+  </div>
+
+  <script>
+    // Estado do chat
+    const els = {
+      messages: document.getElementById('messages'),
+      input: document.getElementById('input'),
+      send: document.getElementById('btn-send'),
+      clear: document.getElementById('btn-clear'),
+      suggestions: document.querySelectorAll('.suggest')
+    };
+
+    let history = [];
+    let lastBotText = '';
+
+    function addMessage(text, who = 'user') {
+      const wrap = document.createElement('div');
+      wrap.className = 'fade-in';
+      const isUser = who === 'user';
+      wrap.innerHTML = `
+        <div class="flex items-start gap-3 ${isUser ? 'justify-end' : ''}">
+          ${!isUser ? avatar('Gemini') : ''}
+          <div class="${isUser ? 'bg-emerald-500/15 border border-emerald-400/20' : 'bg-white/5 border border-white/10'} max-w-[85%] md:max-w-[75%] rounded-2xl p-3 md:p-3.5 shadow-sm">
+            <div class="text-xs ${isUser ? 'text-emerald-300/90' : 'text-slate-300/90'} mb-1">${isUser ? 'Você' : 'Gemini'}</div>
+            <div class="leading-relaxed whitespace-pre-wrap text-slate-100">${escapeHtml(text)}</div>
+          </div>
+          ${isUser ? avatar('Você', true) : ''}
+        </div>
+      `;
+      els.messages.appendChild(wrap);
+      els.messages.scrollTop = els.messages.scrollHeight;
+      return wrap;
+    }
+
+    function avatar(label, right = false) {
+      const color = right ? 'bg-emerald-400/20 ring-emerald-400/30' : 'bg-indigo-400/20 ring-indigo-400/30';
+      const text = right ? '👤' : '🤖';
+      return `
+        <div class="shrink-0 w-9 h-9 rounded-xl ${color} ring-1 flex items-center justify-center">${text}</div>
+      `;
+    }
+
+    function escapeHtml(str) {
+      return String(str)
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;');
+    }
+
+    function setLoading(isLoading) {
+      els.send.disabled = isLoading;
+      els.send.textContent = isLoading ? 'Enviando...' : 'Enviar';
+    }
+
+    els.send.addEventListener('click', onSend);
+    els.clear.addEventListener('click', clearChat);
+    els.suggestions.forEach(btn => btn.addEventListener('click', () => {
+      els.input.value = btn.dataset.q;
+      onSend();
+    }));
+
+    els.input.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter' && !e.shiftKey) {
+        e.preventDefault();
+        onSend();
+      }
+    });
+
+    function onSend() {
+      const text = els.input.value.trim();
+      if (!text) return;
+      addMessage(text, 'user');
+      els.input.value = '';
+      setLoading(true);
+
+      fetch('/chat', {
+        method: "POST",
+        headers: {'Content-Type':'application/json'},
+        body: JSON.stringify({message: text, history: history})
+      })
+      .then(r => r.json())
+      .then(r => {
+        addMessage(r.reply, 'bot');
+        history.push({role: 'user', content: text});
+        history.push({role: 'assistant', content: r.reply});
+        setLoading(false);
+      })
+      .catch(() => {
+        addMessage('Erro ao obter resposta. Verifique sua conexão ou o servidor /chat.', 'bot');
+        setLoading(false);
+      });
+    }
+
+    function clearChat() {
+      els.messages.innerHTML = '';
+      lastBotText = '';
+      history = [];
+    }
+
+    // Mensagem de boas-vindas
+    addMessage('Olá! Eu sou o Gemini Flash para LoL. Pergunte sobre apostas, análise de partidas, comps, odds ou meta! Siga o fluxo e responda às perguntas do consultor para obter análise detalhada.', 'bot');
+  </script>
+</body>
+</html>

@@ -1,0 +1,4739 @@
+league,picked_champion,pick_count
+AL,Rell,88
+AL,Leona,80
+AL,Varus,75
+AL,Nautilus,70
+AL,Ezreal,67
+AL,Ambessa,66
+AL,Corki,66
+AL,Xin Zhao,65
+AL,Maokai,57
+AL,K'Sante,55
+AL,Rakan,53
+AL,Kai'Sa,51
+AL,Azir,50
+AL,Sejuani,50
+AL,Wukong,50
+AL,Alistar,49
+AL,Jayce,49
+AL,Aurora,46
+AL,Rumble,46
+AL,Sion,46
+AL,Ahri,45
+AL,Pantheon,45
+AL,Vi,43
+AL,Viktor,42
+AL,Braum,40
+AL,Jhin,40
+AL,Yone,40
+AL,Taliyah,39
+AL,Miss Fortune,37
+AL,Orianna,37
+AL,Poppy,36
+AL,Sivir,36
+AL,Tristana,35
+AL,Aatrox,34
+AL,Akali,34
+AL,Renekton,34
+AL,Nocturne,32
+AL,Galio,29
+AL,Xayah,28
+AL,Gnar,27
+AL,Gwen,27
+AL,Jax,25
+AL,Naafiri,24
+AL,Skarner,24
+AL,Hwei,22
+AL,Jinx,22
+AL,Neeko,22
+AL,Jarvan IV,21
+AL,Mel,20
+AL,Renata Glasc,20
+AL,Sylas,20
+AL,Kalista,18
+AL,Viego,18
+AL,Ashe,17
+AL,Ornn,17
+AL,Ivern,16
+AL,Trundle,16
+AL,Yorick,16
+AL,Gragas,15
+AL,Ryze,15
+AL,Zeri,15
+AL,Cho'Gath,14
+AL,Annie,13
+AL,Camille,13
+AL,Karma,13
+AL,Syndra,13
+AL,LeBlanc,12
+AL,Lillia,12
+AL,Lucian,12
+AL,Lulu,12
+AL,Volibear,12
+AL,Fiora,11
+AL,Senna,10
+AL,Nidalee,9
+AL,Olaf,9
+AL,Pyke,9
+AL,Bard,8
+AL,Lee Sin,8
+AL,Zyra,8
+AL,Aphelios,7
+AL,Elise,7
+AL,Dr. Mundo,6
+AL,Draven,6
+AL,Smolder,6
+AL,Swain,6
+AL,Brand,5
+AL,Caitlyn,5
+AL,Irelia,5
+AL,Amumu,4
+AL,Malphite,4
+AL,Nami,4
+AL,Udyr,4
+AL,Blitzcrank,3
+AL,Karthus,3
+AL,Mordekaiser,3
+AL,Seraphine,3
+AL,Shen,3
+AL,Vex,3
+AL,Ziggs,3
+AL,Zoe,3
+AL,Darius,2
+AL,Janna,2
+AL,Kennen,2
+AL,Sett,2
+AL,Tahm Kench,2
+AL,Taric,2
+AL,Thresh,2
+AL,Twitch,2
+AL,Vladimir,2
+AL,Yasuo,2
+AL,Zed,2
+AL,Aurelion Sol,1
+AL,Cassiopeia,1
+AL,Diana,1
+AL,Fiddlesticks,1
+AL,Kindred,1
+AL,Kog'Maw,1
+AL,Lux,1
+AL,Milio,1
+AL,Nilah,1
+AL,Soraka,1
+AL,Talon,1
+AL,Tryndamere,1
+AL,Twisted Fate,1
+AL,Warwick,1
+AL,Yuumi,1
+Asia Master,Xin Zhao,48
+Asia Master,Alistar,41
+Asia Master,Rumble,41
+Asia Master,Taliyah,40
+Asia Master,Rell,39
+Asia Master,Rakan,37
+Asia Master,Lee Sin,33
+Asia Master,Ahri,32
+Asia Master,Gwen,30
+Asia Master,Nautilus,29
+Asia Master,Lucian,28
+Asia Master,Sion,28
+Asia Master,Varus,27
+Asia Master,Vi,26
+Asia Master,Wukong,26
+Asia Master,Xayah,26
+Asia Master,Ambessa,23
+Asia Master,Azir,23
+Asia Master,Jax,23
+Asia Master,Ezreal,22
+Asia Master,Jhin,22
+Asia Master,K'Sante,20
+Asia Master,Kai'Sa,19
+Asia Master,Trundle,19
+Asia Master,Aurora,17
+Asia Master,Ryze,17
+Asia Master,Corki,16
+Asia Master,Annie,15
+Asia Master,Braum,15
+Asia Master,Jayce,15
+Asia Master,Neeko,15
+Asia Master,Orianna,15
+Asia Master,Sivir,15
+Asia Master,Sylas,15
+Asia Master,Poppy,14
+Asia Master,Galio,11
+Asia Master,Pantheon,11
+Asia Master,Skarner,11
+Asia Master,Leona,10
+Asia Master,Aatrox,9
+Asia Master,Senna,9
+Asia Master,Twisted Fate,9
+Asia Master,Viktor,9
+Asia Master,Yorick,9
+Asia Master,Kalista,8
+Asia Master,Nocturne,8
+Asia Master,Renata Glasc,8
+Asia Master,Sejuani,8
+Asia Master,Renekton,7
+Asia Master,Zed,7
+Asia Master,Aphelios,6
+Asia Master,Hwei,6
+Asia Master,Maokai,6
+Asia Master,Bard,5
+Asia Master,Karma,5
+Asia Master,Miss Fortune,5
+Asia Master,Naafiri,5
+Asia Master,Ornn,5
+Asia Master,Smolder,5
+Asia Master,Zeri,5
+Asia Master,Draven,4
+Asia Master,Fiora,4
+Asia Master,Jarvan IV,4
+Asia Master,Nami,4
+Asia Master,Viego,4
+Asia Master,Vladimir,4
+Asia Master,Yone,4
+Asia Master,Cassiopeia,3
+Asia Master,Jinx,3
+Asia Master,Nidalee,3
+Asia Master,Pyke,3
+Asia Master,Sett,3
+Asia Master,Tristana,3
+Asia Master,Akali,2
+Asia Master,Caitlyn,2
+Asia Master,Camille,2
+Asia Master,Ekko,2
+Asia Master,Elise,2
+Asia Master,Gnar,2
+Asia Master,Irelia,2
+Asia Master,LeBlanc,2
+Asia Master,Lissandra,2
+Asia Master,Lulu,2
+Asia Master,Rengar,2
+Asia Master,Ziggs,2
+Asia Master,Anivia,1
+Asia Master,Blitzcrank,1
+Asia Master,Diana,1
+Asia Master,Gragas,1
+Asia Master,Mel,1
+Asia Master,Shen,1
+Asia Master,Taric,1
+Asia Master,Udyr,1
+Asia Master,Volibear,1
+Asia Master,Yasuo,1
+Asia Master,Zilean,1
+Asia Master,Zoe,1
+CD,Rell,81
+CD,Taliyah,70
+CD,Rakan,66
+CD,Rumble,64
+CD,Ambessa,61
+CD,Ahri,59
+CD,Xin Zhao,59
+CD,Alistar,58
+CD,Jhin,57
+CD,Ezreal,55
+CD,Nautilus,54
+CD,Corki,53
+CD,Miss Fortune,52
+CD,Varus,52
+CD,Vi,52
+CD,Sejuani,51
+CD,Pantheon,48
+CD,Wukong,48
+CD,Jayce,44
+CD,Kai'Sa,44
+CD,Leona,43
+CD,Maokai,43
+CD,Ashe,42
+CD,Azir,40
+CD,Gwen,40
+CD,Yone,38
+CD,Braum,36
+CD,Aurora,34
+CD,K'Sante,31
+CD,Sion,31
+CD,Orianna,30
+CD,Jax,29
+CD,Renekton,29
+CD,Viktor,27
+CD,Aatrox,26
+CD,Naafiri,26
+CD,Neeko,25
+CD,Gnar,24
+CD,Nocturne,24
+CD,Poppy,23
+CD,Ryze,23
+CD,Skarner,21
+CD,Sylas,19
+CD,Galio,18
+CD,Trundle,18
+CD,Xayah,18
+CD,Jinx,17
+CD,Hwei,16
+CD,Jarvan IV,16
+CD,Kalista,15
+CD,Lucian,15
+CD,Akali,14
+CD,Annie,14
+CD,Ivern,14
+CD,Ornn,14
+CD,Camille,13
+CD,Yorick,13
+CD,Lulu,12
+CD,Zeri,12
+CD,Karma,11
+CD,Senna,11
+CD,Sivir,11
+CD,Lillia,10
+CD,Renata Glasc,10
+CD,Yunara,10
+CD,Bard,9
+CD,Smolder,9
+CD,Nidalee,8
+CD,Gragas,7
+CD,Nami,7
+CD,Seraphine,7
+CD,Zyra,7
+CD,Cassiopeia,6
+CD,Tristana,6
+CD,Cho'Gath,5
+CD,Pyke,5
+CD,Swain,5
+CD,Zed,5
+CD,Darius,4
+CD,Elise,4
+CD,Kindred,4
+CD,Mel,4
+CD,Blitzcrank,3
+CD,Dr. Mundo,3
+CD,Fiora,3
+CD,LeBlanc,3
+CD,Shen,3
+CD,Syndra,3
+CD,Tahm Kench,3
+CD,Viego,3
+CD,Ziggs,3
+CD,Irelia,2
+CD,Milio,2
+CD,Mordekaiser,2
+CD,Vladimir,2
+CD,Volibear,2
+CD,Yasuo,2
+CD,Zoe,2
+CD,Akshan,1
+CD,Amumu,1
+CD,Anivia,1
+CD,Aphelios,1
+CD,Aurelion Sol,1
+CD,Briar,1
+CD,Draven,1
+CD,Evelynn,1
+CD,Karthus,1
+CD,Kayn,1
+CD,Kha'Zix,1
+CD,Lee Sin,1
+CD,Nunu & Willump,1
+CD,Olaf,1
+CD,Rengar,1
+CD,Samira,1
+CD,Sett,1
+CD,Taric,1
+CD,Tryndamere,1
+CD,Udyr,1
+CD,Xerath,1
+CD,Zac,1
+CD,Zilean,1
+CT,Varus,17
+CT,Miss Fortune,16
+CT,Rell,16
+CT,Vi,14
+CT,Ahri,12
+CT,Nautilus,12
+CT,Neeko,12
+CT,Rakan,12
+CT,Wukong,12
+CT,Alistar,11
+CT,Sion,11
+CT,Gwen,10
+CT,Orianna,10
+CT,Viego,10
+CT,Viktor,10
+CT,Ambessa,9
+CT,Azir,9
+CT,Leona,9
+CT,Renekton,9
+CT,Xin Zhao,9
+CT,Hwei,8
+CT,Maokai,8
+CT,Mel,8
+CT,Corki,7
+CT,Ezreal,7
+CT,Jayce,7
+CT,Jhin,7
+CT,Naafiri,7
+CT,Shen,7
+CT,Skarner,7
+CT,Syndra,7
+CT,Tristana,7
+CT,K'Sante,6
+CT,Pantheon,6
+CT,Ryze,6
+CT,Senna,6
+CT,Aurora,5
+CT,Braum,5
+CT,Karma,5
+CT,Lillia,5
+CT,Ornn,5
+CT,Poppy,5
+CT,Sejuani,5
+CT,Sylas,5
+CT,Taliyah,5
+CT,Ashe,4
+CT,Camille,4
+CT,Jarvan IV,4
+CT,Jinx,4
+CT,Kai'Sa,4
+CT,Smolder,4
+CT,Xayah,4
+CT,Aatrox,3
+CT,Akali,3
+CT,Dr. Mundo,3
+CT,Ivern,3
+CT,Lucian,3
+CT,Lulu,3
+CT,Lux,3
+CT,Nocturne,3
+CT,Renata Glasc,3
+CT,Rumble,3
+CT,Sivir,3
+CT,Trundle,3
+CT,Yone,3
+CT,Zed,3
+CT,Bard,2
+CT,Fiora,2
+CT,Galio,2
+CT,Gnar,2
+CT,Jax,2
+CT,LeBlanc,2
+CT,Nami,2
+CT,Nidalee,2
+CT,Olaf,2
+CT,Tahm Kench,2
+CT,Yorick,2
+CT,Zeri,2
+CT,Aphelios,1
+CT,Blitzcrank,1
+CT,Cassiopeia,1
+CT,Cho'Gath,1
+CT,Diana,1
+CT,Fiddlesticks,1
+CT,Gangplank,1
+CT,Gragas,1
+CT,Irelia,1
+CT,Kayn,1
+CT,Sett,1
+CT,Taric,1
+CT,Thresh,1
+CT,Urgot,1
+CT,Veigar,1
+CT,Vel'Koz,1
+CT,Vladimir,1
+CT,Warwick,1
+CT,Yasuo,1
+CT,Zilean,1
+EBL,Rell,52
+EBL,Ezreal,51
+EBL,Varus,48
+EBL,Ambessa,44
+EBL,Corki,42
+EBL,Nautilus,41
+EBL,Leona,40
+EBL,Taliyah,40
+EBL,Vi,39
+EBL,Xin Zhao,39
+EBL,K'Sante,35
+EBL,Alistar,32
+EBL,Rakan,30
+EBL,Wukong,30
+EBL,Ahri,29
+EBL,Maokai,29
+EBL,Azir,28
+EBL,Kai'Sa,27
+EBL,Miss Fortune,25
+EBL,Aurora,24
+EBL,Jax,24
+EBL,Orianna,24
+EBL,Pantheon,24
+EBL,Renekton,24
+EBL,Jhin,23
+EBL,Sejuani,23
+EBL,Braum,22
+EBL,Nocturne,22
+EBL,Rumble,21
+EBL,Poppy,20
+EBL,Syndra,20
+EBL,Gnar,19
+EBL,Ryze,19
+EBL,Sion,19
+EBL,Viego,19
+EBL,Neeko,18
+EBL,Jayce,17
+EBL,Ornn,17
+EBL,Gwen,16
+EBL,Aatrox,15
+EBL,Tristana,15
+EBL,Trundle,15
+EBL,Viktor,15
+EBL,Yone,15
+EBL,Mel,14
+EBL,Akali,13
+EBL,Ashe,13
+EBL,Sivir,13
+EBL,Galio,12
+EBL,Jinx,12
+EBL,Hwei,11
+EBL,Jarvan IV,11
+EBL,Lucian,10
+EBL,Zyra,10
+EBL,Bard,9
+EBL,Olaf,9
+EBL,Skarner,9
+EBL,LeBlanc,8
+EBL,Sett,8
+EBL,Sylas,8
+EBL,Yunara,8
+EBL,Naafiri,7
+EBL,Senna,7
+EBL,Thresh,7
+EBL,Xayah,7
+EBL,Yorick,7
+EBL,Zeri,7
+EBL,Gragas,6
+EBL,Ivern,6
+EBL,Karma,6
+EBL,Lee Sin,6
+EBL,Lillia,6
+EBL,Lulu,6
+EBL,Camille,5
+EBL,Nidalee,5
+EBL,Shen,5
+EBL,Tahm Kench,5
+EBL,Aurelion Sol,4
+EBL,Blitzcrank,4
+EBL,Dr. Mundo,4
+EBL,Elise,4
+EBL,Kennen,4
+EBL,Seraphine,4
+EBL,Annie,3
+EBL,Aphelios,3
+EBL,Caitlyn,3
+EBL,Fiora,3
+EBL,Irelia,3
+EBL,Kalista,3
+EBL,Nami,3
+EBL,Renata Glasc,3
+EBL,Smolder,3
+EBL,Vayne,3
+EBL,Ziggs,3
+EBL,Diana,2
+EBL,Kindred,2
+EBL,Kog'Maw,2
+EBL,Mordekaiser,2
+EBL,Pyke,2
+EBL,Urgot,2
+EBL,Vex,2
+EBL,Volibear,2
+EBL,Yasuo,2
+EBL,Akshan,1
+EBL,Amumu,1
+EBL,Anivia,1
+EBL,Brand,1
+EBL,Darius,1
+EBL,Garen,1
+EBL,Hecarim,1
+EBL,Kayn,1
+EBL,Kha'Zix,1
+EBL,Lissandra,1
+EBL,Shyvana,1
+EBL,Soraka,1
+EBL,Swain,1
+EBL,Twisted Fate,1
+EBL,Twitch,1
+EBL,Xerath,1
+EBL,Yuumi,1
+EBL,Zed,1
+EM,Rell,72
+EM,Xin Zhao,59
+EM,Nautilus,56
+EM,Ezreal,53
+EM,Varus,52
+EM,Ahri,51
+EM,Leona,51
+EM,Corki,48
+EM,Wukong,46
+EM,Alistar,45
+EM,Ambessa,45
+EM,Taliyah,45
+EM,Azir,44
+EM,Miss Fortune,44
+EM,Pantheon,42
+EM,Rakan,42
+EM,Sejuani,42
+EM,Rumble,40
+EM,Jhin,39
+EM,Braum,37
+EM,K'Sante,36
+EM,Orianna,35
+EM,Maokai,33
+EM,Sion,33
+EM,Vi,32
+EM,Naafiri,29
+EM,Sivir,29
+EM,Yone,29
+EM,Viego,28
+EM,Renekton,27
+EM,Viktor,27
+EM,Hwei,26
+EM,Jayce,26
+EM,Kai'Sa,26
+EM,Lucian,26
+EM,Neeko,26
+EM,Senna,26
+EM,Jax,25
+EM,Syndra,25
+EM,Skarner,24
+EM,Galio,23
+EM,Gnar,23
+EM,Gwen,23
+EM,Trundle,21
+EM,Aatrox,20
+EM,Poppy,20
+EM,Sylas,20
+EM,Tristana,20
+EM,Akali,18
+EM,Xayah,18
+EM,Yorick,18
+EM,Ashe,17
+EM,Lulu,17
+EM,Ryze,17
+EM,Aurora,16
+EM,Karma,16
+EM,Nami,16
+EM,Cho'Gath,15
+EM,Ornn,15
+EM,Kalista,14
+EM,Renata Glasc,14
+EM,Camille,13
+EM,Gragas,13
+EM,Mel,13
+EM,Nocturne,13
+EM,Jinx,12
+EM,Ivern,11
+EM,Zeri,11
+EM,Bard,9
+EM,Blitzcrank,9
+EM,Caitlyn,9
+EM,Darius,9
+EM,Lillia,9
+EM,Nidalee,9
+EM,Bel'Veth,7
+EM,Lee Sin,7
+EM,Shen,7
+EM,Garen,6
+EM,Kennen,6
+EM,Ziggs,6
+EM,Aphelios,5
+EM,Aurelion Sol,5
+EM,Dr. Mundo,5
+EM,Jarvan IV,5
+EM,Volibear,5
+EM,Zyra,5
+EM,Gangplank,4
+EM,LeBlanc,4
+EM,Milio,4
+EM,Smolder,4
+EM,Thresh,4
+EM,Twisted Fate,4
+EM,Yasuo,4
+EM,Zoe,4
+EM,Annie,3
+EM,Cassiopeia,3
+EM,Draven,3
+EM,Fiddlesticks,3
+EM,Fiora,3
+EM,Kha'Zix,3
+EM,Kindred,3
+EM,Malphite,3
+EM,Zilean,3
+EM,Elise,2
+EM,Irelia,2
+EM,Kled,2
+EM,Lux,2
+EM,Olaf,2
+EM,Pyke,2
+EM,Sett,2
+EM,Shyvana,2
+EM,Taric,2
+EM,Warwick,2
+EM,Xerath,2
+EM,Zed,2
+EM,Amumu,1
+EM,Anivia,1
+EM,Illaoi,1
+EM,Janna,1
+EM,Karthus,1
+EM,Kayn,1
+EM,Kog'Maw,1
+EM,Mordekaiser,1
+EM,Nasus,1
+EM,Nilah,1
+EM,Rammus,1
+EM,Soraka,1
+EM,Tahm Kench,1
+EM,Vayne,1
+EM,Vladimir,1
+EM,Zac,1
+EWC,Alistar,12
+EWC,Rakan,12
+EWC,Xin Zhao,12
+EWC,Azir,10
+EWC,Gwen,10
+EWC,Rell,10
+EWC,Rumble,10
+EWC,Aurora,9
+EWC,Taliyah,9
+EWC,Trundle,9
+EWC,Annie,8
+EWC,Corki,8
+EWC,Ezreal,8
+EWC,Jhin,8
+EWC,Bard,7
+EWC,Galio,7
+EWC,Senna,7
+EWC,Vi,7
+EWC,Wukong,7
+EWC,Braum,6
+EWC,Kai'Sa,6
+EWC,Lucian,6
+EWC,Pantheon,6
+EWC,Renekton,6
+EWC,Sivir,6
+EWC,Skarner,6
+EWC,Ambessa,5
+EWC,Nautilus,5
+EWC,Neeko,5
+EWC,Orianna,5
+EWC,Sion,5
+EWC,Varus,5
+EWC,Xayah,5
+EWC,Yone,5
+EWC,Jax,4
+EWC,K'Sante,4
+EWC,Maokai,4
+EWC,Ryze,4
+EWC,Sejuani,4
+EWC,Ahri,3
+EWC,Jarvan IV,3
+EWC,Miss Fortune,3
+EWC,Poppy,3
+EWC,Sylas,3
+EWC,Syndra,3
+EWC,Viktor,3
+EWC,Aatrox,2
+EWC,Gragas,2
+EWC,Jayce,2
+EWC,Jinx,2
+EWC,Karma,2
+EWC,Leona,2
+EWC,Nocturne,2
+EWC,Renata Glasc,2
+EWC,Akali,1
+EWC,Blitzcrank,1
+EWC,Camille,1
+EWC,Cassiopeia,1
+EWC,Cho'Gath,1
+EWC,Kalista,1
+EWC,Kindred,1
+EWC,LeBlanc,1
+EWC,Lee Sin,1
+EWC,Lillia,1
+EWC,Ornn,1
+EWC,Sett,1
+EWC,Shen,1
+EWC,Smolder,1
+EWC,Tahm Kench,1
+EWC,Tristana,1
+EWC,Twisted Fate,1
+EWC,Vladimir,1
+EWC,Yasuo,1
+EWC,Yorick,1
+EWC,Zed,1
+FST,Ezreal,13
+FST,Leona,11
+FST,Vi,11
+FST,Varus,10
+FST,Aurora,9
+FST,Azir,9
+FST,Rell,9
+FST,Taliyah,9
+FST,Alistar,8
+FST,Ashe,8
+FST,Jayce,8
+FST,Maokai,8
+FST,Rakan,8
+FST,Rumble,8
+FST,Sejuani,8
+FST,Skarner,8
+FST,Xin Zhao,8
+FST,Ambessa,7
+FST,Corki,7
+FST,Yone,7
+FST,Aatrox,6
+FST,Jax,6
+FST,Jhin,6
+FST,Miss Fortune,6
+FST,Nautilus,6
+FST,Pantheon,6
+FST,Renata Glasc,6
+FST,Gnar,5
+FST,K'Sante,5
+FST,Kai'Sa,5
+FST,Kalista,5
+FST,Sylas,5
+FST,Tristana,5
+FST,Wukong,5
+FST,Gragas,4
+FST,Ivern,4
+FST,Nidalee,4
+FST,Poppy,4
+FST,Akali,3
+FST,Braum,3
+FST,Draven,3
+FST,Galio,3
+FST,Gangplank,3
+FST,Hwei,3
+FST,Karma,3
+FST,Nocturne,3
+FST,Renekton,3
+FST,Sion,3
+FST,Viktor,3
+FST,Vladimir,3
+FST,Ahri,2
+FST,Caitlyn,2
+FST,Camille,2
+FST,Kennen,2
+FST,Kindred,2
+FST,Orianna,2
+FST,Ornn,2
+FST,Pyke,2
+FST,Ryze,2
+FST,Sivir,2
+FST,Yuumi,2
+FST,Zeri,2
+FST,Ziggs,2
+FST,Aurelion Sol,1
+FST,Bard,1
+FST,Blitzcrank,1
+FST,Brand,1
+FST,Cassiopeia,1
+FST,Gwen,1
+FST,Karthus,1
+FST,Kassadin,1
+FST,Kayle,1
+FST,Lucian,1
+FST,Nami,1
+FST,Neeko,1
+FST,Nilah,1
+FST,Quinn,1
+FST,Senna,1
+FST,Sett,1
+FST,Thresh,1
+FST,Viego,1
+FST,Xayah,1
+FST,Zed,1
+FST,Zyra,1
+HC,Rell,46
+HC,Xin Zhao,40
+HC,Varus,34
+HC,Rakan,33
+HC,Jhin,32
+HC,Rumble,31
+HC,Azir,30
+HC,Braum,28
+HC,Alistar,27
+HC,Maokai,27
+HC,Neeko,26
+HC,Orianna,26
+HC,Sejuani,26
+HC,Viktor,26
+HC,Wukong,26
+HC,Ambessa,24
+HC,Ezreal,24
+HC,Leona,24
+HC,Nautilus,24
+HC,Sivir,24
+HC,Taliyah,24
+HC,K'Sante,23
+HC,Karma,23
+HC,Yone,23
+HC,Corki,22
+HC,Gwen,22
+HC,Pantheon,22
+HC,Syndra,22
+HC,Trundle,22
+HC,Ahri,21
+HC,Vi,20
+HC,Ashe,19
+HC,Kai'Sa,19
+HC,Poppy,19
+HC,Sion,19
+HC,Tristana,19
+HC,Galio,18
+HC,Gnar,18
+HC,Jayce,18
+HC,Jinx,17
+HC,Miss Fortune,17
+HC,Xayah,17
+HC,Renekton,16
+HC,Smolder,16
+HC,Gragas,15
+HC,Naafiri,15
+HC,Ornn,15
+HC,Aatrox,14
+HC,Jarvan IV,14
+HC,Nocturne,14
+HC,Renata Glasc,13
+HC,Skarner,12
+HC,Volibear,12
+HC,Bard,10
+HC,Jax,10
+HC,Lillia,10
+HC,Lucian,10
+HC,Lulu,10
+HC,Viego,10
+HC,Aurora,9
+HC,Ivern,9
+HC,Morgana,9
+HC,Ryze,9
+HC,Shen,9
+HC,Yunara,9
+HC,Zeri,9
+HC,Hwei,8
+HC,Swain,8
+HC,Sylas,8
+HC,Camille,7
+HC,Mordekaiser,7
+HC,Vladimir,7
+HC,Xerath,7
+HC,Akali,6
+HC,Dr. Mundo,6
+HC,Mel,6
+HC,Olaf,6
+HC,Senna,6
+HC,Seraphine,6
+HC,Yorick,6
+HC,LeBlanc,5
+HC,Malphite,5
+HC,Zed,5
+HC,Caitlyn,4
+HC,Darius,4
+HC,Gangplank,4
+HC,Janna,4
+HC,Kayle,4
+HC,Kindred,4
+HC,Lissandra,4
+HC,Master Yi,4
+HC,Milio,4
+HC,Nami,4
+HC,Ziggs,4
+HC,Amumu,3
+HC,Annie,3
+HC,Aphelios,3
+HC,Cassiopeia,3
+HC,Draven,3
+HC,Kalista,3
+HC,Kog'Maw,3
+HC,Sona,3
+HC,Yasuo,3
+HC,Zyra,3
+HC,Anivia,2
+HC,Cho'Gath,2
+HC,Fiddlesticks,2
+HC,Hecarim,2
+HC,Irelia,2
+HC,Pyke,2
+HC,Singed,2
+HC,Talon,2
+HC,Thresh,2
+HC,Udyr,2
+HC,Urgot,2
+HC,Blitzcrank,1
+HC,Diana,1
+HC,Ekko,1
+HC,Fizz,1
+HC,Garen,1
+HC,Karthus,1
+HC,Kassadin,1
+HC,Kayn,1
+HC,Kennen,1
+HC,Kha'Zix,1
+HC,Kled,1
+HC,Malzahar,1
+HC,Nidalee,1
+HC,Rammus,1
+HC,Rek'Sai,1
+HC,Shaco,1
+HC,Soraka,1
+HC,Tryndamere,1
+HC,Twisted Fate,1
+HC,Twitch,1
+HC,Vayne,1
+HC,Zac,1
+HC,Zilean,1
+HC,Zoe,1
+HLL,Varus,87
+HLL,Rell,82
+HLL,Leona,63
+HLL,Corki,57
+HLL,Nautilus,54
+HLL,Ezreal,53
+HLL,K'Sante,50
+HLL,Xin Zhao,46
+HLL,Maokai,44
+HLL,Alistar,42
+HLL,Wukong,39
+HLL,Vi,38
+HLL,Viktor,38
+HLL,Taliyah,37
+HLL,Miss Fortune,36
+HLL,Rakan,36
+HLL,Rumble,35
+HLL,Sejuani,35
+HLL,Ambessa,33
+HLL,Braum,32
+HLL,Orianna,31
+HLL,Syndra,30
+HLL,Jayce,27
+HLL,Pantheon,27
+HLL,Kai'Sa,26
+HLL,Yone,25
+HLL,Gnar,24
+HLL,Viego,24
+HLL,Azir,23
+HLL,Camille,23
+HLL,Renekton,23
+HLL,Sion,22
+HLL,Ahri,21
+HLL,Hwei,21
+HLL,Jhin,21
+HLL,Ornn,21
+HLL,Gwen,20
+HLL,Skarner,20
+HLL,Aurora,18
+HLL,Nocturne,18
+HLL,Galio,17
+HLL,Xayah,17
+HLL,Aatrox,16
+HLL,Akali,16
+HLL,Sylas,16
+HLL,Tristana,16
+HLL,Zyra,16
+HLL,Karma,15
+HLL,Gragas,14
+HLL,Jinx,14
+HLL,Naafiri,14
+HLL,Ryze,14
+HLL,Ashe,13
+HLL,Poppy,13
+HLL,Lillia,12
+HLL,Renata Glasc,12
+HLL,Mel,11
+HLL,Draven,10
+HLL,Caitlyn,9
+HLL,Jax,9
+HLL,Lucian,9
+HLL,Sivir,9
+HLL,Trundle,9
+HLL,Annie,8
+HLL,Ivern,8
+HLL,Shen,8
+HLL,Cho'Gath,7
+HLL,Jarvan IV,7
+HLL,Lulu,7
+HLL,Olaf,7
+HLL,Seraphine,7
+HLL,Smolder,7
+HLL,Yorick,7
+HLL,Ziggs,7
+HLL,Dr. Mundo,6
+HLL,Fiora,6
+HLL,Kennen,6
+HLL,Thresh,6
+HLL,Aphelios,5
+HLL,Bard,5
+HLL,Irelia,5
+HLL,Karthus,5
+HLL,Lux,5
+HLL,Senna,5
+HLL,Volibear,5
+HLL,Yasuo,5
+HLL,Milio,4
+HLL,Nami,4
+HLL,Vladimir,4
+HLL,Zeri,4
+HLL,Bel'Veth,3
+HLL,Gangplank,3
+HLL,Lee Sin,3
+HLL,Neeko,3
+HLL,Nidalee,3
+HLL,Pyke,3
+HLL,Vayne,3
+HLL,Yuumi,3
+HLL,Aurelion Sol,2
+HLL,Blitzcrank,2
+HLL,Cassiopeia,2
+HLL,Elise,2
+HLL,Kha'Zix,2
+HLL,Kindred,2
+HLL,Kog'Maw,2
+HLL,LeBlanc,2
+HLL,Tahm Kench,2
+HLL,Twisted Fate,2
+HLL,Udyr,2
+HLL,Zed,2
+HLL,Anivia,1
+HLL,Darius,1
+HLL,Diana,1
+HLL,Ekko,1
+HLL,Garen,1
+HLL,Kled,1
+HLL,Lissandra,1
+HLL,Malphite,1
+HLL,Mordekaiser,1
+HLL,Nunu & Willump,1
+HLL,Riven,1
+HLL,Singed,1
+HLL,Swain,1
+HLL,Tryndamere,1
+HLL,Twitch,1
+HLL,Vex,1
+HLL,Warwick,1
+HLL,Xerath,1
+HLL,Zoe,1
+HM,Xin Zhao,51
+HM,Rell,50
+HM,Varus,45
+HM,Leona,41
+HM,Alistar,39
+HM,Corki,38
+HM,Rakan,36
+HM,Rumble,36
+HM,Taliyah,35
+HM,Azir,33
+HM,Orianna,33
+HM,Ambessa,32
+HM,Miss Fortune,32
+HM,Nautilus,32
+HM,Sion,32
+HM,Maokai,29
+HM,Braum,28
+HM,Gwen,28
+HM,Yone,27
+HM,Jayce,25
+HM,Jhin,25
+HM,Kai'Sa,25
+HM,Vi,25
+HM,Viktor,25
+HM,Tristana,24
+HM,Ezreal,23
+HM,Pantheon,23
+HM,Wukong,23
+HM,Gnar,21
+HM,Renekton,21
+HM,Aatrox,20
+HM,Naafiri,20
+HM,Sivir,20
+HM,Ahri,19
+HM,Aurora,19
+HM,Galio,19
+HM,Jarvan IV,19
+HM,Karma,18
+HM,Sejuani,18
+HM,Jinx,17
+HM,Lucian,17
+HM,Hwei,16
+HM,K'Sante,16
+HM,Skarner,16
+HM,Akali,15
+HM,Jax,14
+HM,Poppy,14
+HM,Trundle,14
+HM,Yorick,14
+HM,Ashe,13
+HM,Nocturne,13
+HM,Annie,12
+HM,Bard,12
+HM,Lillia,12
+HM,Lulu,12
+HM,Ornn,12
+HM,Xayah,12
+HM,Ryze,11
+HM,Senna,11
+HM,Ziggs,11
+HM,Gragas,10
+HM,Neeko,10
+HM,Sylas,10
+HM,Viego,9
+HM,Ivern,8
+HM,Lee Sin,8
+HM,Syndra,8
+HM,Zeri,8
+HM,Seraphine,7
+HM,Smolder,7
+HM,Cho'Gath,6
+HM,Gangplank,6
+HM,Yasuo,6
+HM,Yunara,6
+HM,Aphelios,5
+HM,Camille,5
+HM,Irelia,5
+HM,Nami,5
+HM,Zyra,5
+HM,Amumu,4
+HM,Garen,4
+HM,Kennen,4
+HM,Kled,4
+HM,Milio,4
+HM,Nunu & Willump,4
+HM,Renata Glasc,4
+HM,Shen,4
+HM,Zed,4
+HM,Mel,3
+HM,Pyke,3
+HM,Soraka,3
+HM,Volibear,3
+HM,Zac,3
+HM,Darius,2
+HM,Dr. Mundo,2
+HM,Fiora,2
+HM,Kha'Zix,2
+HM,Nasus,2
+HM,Nidalee,2
+HM,Vladimir,2
+HM,Aurelion Sol,1
+HM,Blitzcrank,1
+HM,Caitlyn,1
+HM,Draven,1
+HM,Elise,1
+HM,Fiddlesticks,1
+HM,Karthus,1
+HM,Kassadin,1
+HM,Katarina,1
+HM,Kayle,1
+HM,LeBlanc,1
+HM,Malphite,1
+HM,Malzahar,1
+HM,Mordekaiser,1
+HM,Olaf,1
+HM,Qiyana,1
+HM,Rengar,1
+HM,Singed,1
+HM,Teemo,1
+HM,Thresh,1
+HM,Twisted Fate,1
+HM,Twitch,1
+HM,Udyr,1
+HM,Veigar,1
+HM,Vel'Koz,1
+HM,Xerath,1
+HM,Yuumi,1
+HW,Rell,53
+HW,Ezreal,51
+HW,Wukong,43
+HW,K'Sante,39
+HW,Corki,34
+HW,Maokai,33
+HW,Varus,33
+HW,Ambessa,32
+HW,Jayce,32
+HW,Leona,31
+HW,Sejuani,25
+HW,Viktor,25
+HW,Orianna,23
+HW,Alistar,22
+HW,Kai'Sa,22
+HW,Poppy,22
+HW,Ahri,21
+HW,Nautilus,21
+HW,Rakan,21
+HW,Vi,21
+HW,Azir,19
+HW,Taliyah,19
+HW,Rumble,17
+HW,Lillia,16
+HW,Renekton,16
+HW,Yone,16
+HW,Viego,14
+HW,Hwei,13
+HW,Kalista,13
+HW,Skarner,13
+HW,Syndra,13
+HW,Braum,12
+HW,Xin Zhao,12
+HW,Ornn,11
+HW,Zyra,11
+HW,Ashe,10
+HW,Gragas,10
+HW,Miss Fortune,10
+HW,Xayah,10
+HW,Camille,9
+HW,Ivern,9
+HW,Jinx,9
+HW,Sivir,9
+HW,Aurora,8
+HW,Galio,8
+HW,Jarvan IV,8
+HW,Jhin,8
+HW,Ryze,8
+HW,Smolder,8
+HW,Aatrox,7
+HW,Amumu,7
+HW,Gnar,7
+HW,Pantheon,7
+HW,Sylas,7
+HW,Tristana,7
+HW,Gwen,6
+HW,Neeko,6
+HW,Renata Glasc,6
+HW,Sion,6
+HW,Akali,5
+HW,Cassiopeia,5
+HW,Jax,5
+HW,Lulu,5
+HW,Zeri,5
+HW,Ziggs,5
+HW,Bard,4
+HW,Dr. Mundo,4
+HW,Garen,4
+HW,Pyke,4
+HW,Volibear,4
+HW,Xerath,4
+HW,Caitlyn,3
+HW,Darius,3
+HW,Fiora,3
+HW,Hecarim,3
+HW,Irelia,3
+HW,Karma,3
+HW,Malphite,3
+HW,Mel,3
+HW,Milio,3
+HW,Olaf,3
+HW,Yasuo,3
+HW,Cho'Gath,2
+HW,Kindred,2
+HW,Lee Sin,2
+HW,Mordekaiser,2
+HW,Nidalee,2
+HW,Nocturne,2
+HW,Seraphine,2
+HW,Swain,2
+HW,Twitch,2
+HW,Veigar,2
+HW,Vladimir,2
+HW,Blitzcrank,1
+HW,Brand,1
+HW,Diana,1
+HW,Draven,1
+HW,Elise,1
+HW,Gangplank,1
+HW,Karthus,1
+HW,Kayle,1
+HW,Kog'Maw,1
+HW,Lissandra,1
+HW,Lux,1
+HW,Master Yi,1
+HW,Morgana,1
+HW,Sett,1
+HW,Shen,1
+HW,Soraka,1
+HW,Tahm Kench,1
+HW,Taric,1
+HW,Thresh,1
+HW,Udyr,1
+HW,Vel'Koz,1
+HW,Zac,1
+LAS,Ezreal,94
+LAS,Azir,90
+LAS,Xin Zhao,89
+LAS,Ambessa,76
+LAS,Rumble,76
+LAS,Varus,75
+LAS,Miss Fortune,73
+LAS,Gwen,72
+LAS,Nautilus,67
+LAS,Jayce,65
+LAS,Rell,64
+LAS,Leona,63
+LAS,Rakan,63
+LAS,Ahri,61
+LAS,Taliyah,60
+LAS,Alistar,59
+LAS,K'Sante,58
+LAS,Naafiri,58
+LAS,Kai'Sa,56
+LAS,Sejuani,55
+LAS,Vi,55
+LAS,Jhin,52
+LAS,Skarner,51
+LAS,Yone,51
+LAS,Braum,49
+LAS,Ryze,49
+LAS,Viego,47
+LAS,Corki,46
+LAS,Nocturne,46
+LAS,Sion,46
+LAS,Neeko,45
+LAS,Ashe,43
+LAS,Viktor,42
+LAS,Aatrox,40
+LAS,Aurora,40
+LAS,Pantheon,37
+LAS,Zeri,34
+LAS,Orianna,33
+LAS,Sylas,32
+LAS,Galio,30
+LAS,Poppy,30
+LAS,Maokai,28
+LAS,Gnar,27
+LAS,Wukong,25
+LAS,Lucian,24
+LAS,Zyra,23
+LAS,Xayah,22
+LAS,Renekton,20
+LAS,Kalista,18
+LAS,Lillia,18
+LAS,Jax,17
+LAS,Renata Glasc,17
+LAS,Karma,16
+LAS,Hwei,15
+LAS,Lulu,14
+LAS,Akali,13
+LAS,Nami,13
+LAS,Draven,12
+LAS,Nidalee,12
+LAS,Lee Sin,11
+LAS,Seraphine,11
+LAS,Tristana,11
+LAS,Yorick,11
+LAS,Pyke,10
+LAS,Vladimir,10
+LAS,Elise,9
+LAS,Ornn,8
+LAS,Annie,7
+LAS,Senna,7
+LAS,Swain,7
+LAS,Caitlyn,6
+LAS,Aphelios,5
+LAS,Sett,5
+LAS,Yuumi,5
+LAS,Jinx,4
+LAS,Kindred,4
+LAS,LeBlanc,4
+LAS,Dr. Mundo,3
+LAS,Fiora,3
+LAS,Gragas,3
+LAS,Kennen,3
+LAS,Mel,3
+LAS,Olaf,3
+LAS,Shen,3
+LAS,Vel'Koz,3
+LAS,Volibear,3
+LAS,Irelia,2
+LAS,Ivern,2
+LAS,Jarvan IV,2
+LAS,Kha'Zix,2
+LAS,Master Yi,2
+LAS,Smolder,2
+LAS,Tahm Kench,2
+LAS,Taric,2
+LAS,Zed,2
+LAS,Bard,1
+LAS,Blitzcrank,1
+LAS,Camille,1
+LAS,Cho'Gath,1
+LAS,Karthus,1
+LAS,Kassadin,1
+LAS,Kog'Maw,1
+LAS,Nilah,1
+LAS,Sivir,1
+LAS,Syndra,1
+LAS,Talon,1
+LAS,Thresh,1
+LAS,Udyr,1
+LAS,Vex,1
+LCK,Xin Zhao,141
+LCK,Rumble,132
+LCK,Azir,112
+LCK,Rell,108
+LCK,Ambessa,106
+LCK,Jayce,106
+LCK,Taliyah,102
+LCK,Wukong,102
+LCK,Ahri,101
+LCK,Alistar,101
+LCK,Varus,99
+LCK,Ezreal,98
+LCK,Rakan,93
+LCK,Gwen,87
+LCK,Corki,84
+LCK,Kai'Sa,83
+LCK,Poppy,83
+LCK,Nautilus,80
+LCK,Sejuani,80
+LCK,Aurora,79
+LCK,Jhin,77
+LCK,Miss Fortune,77
+LCK,Braum,76
+LCK,Leona,75
+LCK,Ryze,73
+LCK,Viktor,73
+LCK,Galio,64
+LCK,Pantheon,64
+LCK,Xayah,64
+LCK,Yone,64
+LCK,Sion,63
+LCK,Skarner,63
+LCK,Neeko,61
+LCK,Vi,61
+LCK,K'Sante,56
+LCK,Naafiri,55
+LCK,Ashe,54
+LCK,Lucian,53
+LCK,Nidalee,48
+LCK,Trundle,47
+LCK,Jax,45
+LCK,Kalista,44
+LCK,Renata Glasc,43
+LCK,Sylas,43
+LCK,Renekton,41
+LCK,Elise,37
+LCK,Nocturne,37
+LCK,Zeri,37
+LCK,Orianna,36
+LCK,Gnar,35
+LCK,Yorick,35
+LCK,Annie,34
+LCK,Aatrox,33
+LCK,Viego,33
+LCK,Maokai,30
+LCK,Senna,30
+LCK,Sivir,29
+LCK,Lillia,28
+LCK,Ornn,28
+LCK,Jarvan IV,24
+LCK,Lulu,24
+LCK,Camille,23
+LCK,Bard,22
+LCK,Jinx,22
+LCK,Caitlyn,20
+LCK,Lee Sin,20
+LCK,Karma,18
+LCK,Gragas,17
+LCK,Zyra,16
+LCK,Akali,13
+LCK,Shen,13
+LCK,Ziggs,13
+LCK,Hwei,12
+LCK,Blitzcrank,11
+LCK,Tristana,10
+LCK,Cassiopeia,9
+LCK,Cho'Gath,9
+LCK,Yunara,8
+LCK,Aphelios,7
+LCK,Kennen,7
+LCK,Smolder,7
+LCK,Twisted Fate,7
+LCK,Zed,7
+LCK,Anivia,6
+LCK,Draven,6
+LCK,Gangplank,6
+LCK,Nami,6
+LCK,Tahm Kench,6
+LCK,Kindred,5
+LCK,Ivern,4
+LCK,LeBlanc,4
+LCK,Mel,4
+LCK,Sett,4
+LCK,Syndra,4
+LCK,Zoe,4
+LCK,Fiora,3
+LCK,Milio,3
+LCK,Olaf,3
+LCK,Pyke,3
+LCK,Thresh,3
+LCK,Diana,2
+LCK,Fiddlesticks,2
+LCK,Karthus,2
+LCK,Morgana,2
+LCK,Soraka,2
+LCK,Swain,2
+LCK,Taric,2
+LCK,Xerath,2
+LCK,Yasuo,2
+LCK,Yuumi,2
+LCK,Zilean,2
+LCK,Amumu,1
+LCK,Aurelion Sol,1
+LCK,Brand,1
+LCK,Hecarim,1
+LCK,Irelia,1
+LCK,Janna,1
+LCK,Kled,1
+LCK,Kog'Maw,1
+LCK,Lux,1
+LCK,Malzahar,1
+LCK,Mordekaiser,1
+LCK,Nilah,1
+LCK,Seraphine,1
+LCK,Talon,1
+LCK,Tryndamere,1
+LCK,Twitch,1
+LCK,Udyr,1
+LCK,Urgot,1
+LCK,Vayne,1
+LCK,Vex,1
+LCK,Vladimir,1
+LCK,Zac,1
+LCKC,Rumble,132
+LCKC,Xin Zhao,130
+LCKC,Azir,122
+LCKC,Rell,120
+LCKC,Rakan,118
+LCKC,Ezreal,113
+LCKC,Ambessa,111
+LCKC,Alistar,110
+LCKC,Nautilus,96
+LCKC,Taliyah,96
+LCKC,Wukong,96
+LCKC,Varus,94
+LCKC,Ahri,93
+LCKC,Leona,91
+LCKC,Corki,87
+LCKC,Jayce,87
+LCKC,Jhin,83
+LCKC,K'Sante,80
+LCKC,Kai'Sa,79
+LCKC,Xayah,77
+LCKC,Viktor,75
+LCKC,Miss Fortune,72
+LCKC,Sejuani,70
+LCKC,Braum,69
+LCKC,Gwen,69
+LCKC,Naafiri,69
+LCKC,Renekton,69
+LCKC,Sion,69
+LCKC,Aurora,68
+LCKC,Vi,68
+LCKC,Ryze,67
+LCKC,Galio,64
+LCKC,Orianna,62
+LCKC,Pantheon,61
+LCKC,Poppy,58
+LCKC,Yone,57
+LCKC,Skarner,54
+LCKC,Viego,54
+LCKC,Jax,48
+LCKC,Neeko,45
+LCKC,Lucian,44
+LCKC,Aatrox,43
+LCKC,Ashe,41
+LCKC,Annie,38
+LCKC,Maokai,36
+LCKC,Sylas,36
+LCKC,Renata Glasc,35
+LCKC,Nidalee,34
+LCKC,Nocturne,34
+LCKC,Sivir,33
+LCKC,Kalista,32
+LCKC,Zeri,32
+LCKC,Gnar,31
+LCKC,Lillia,31
+LCKC,Trundle,28
+LCKC,Jarvan IV,25
+LCKC,Lee Sin,25
+LCKC,Ornn,25
+LCKC,Jinx,24
+LCKC,Bard,21
+LCKC,Senna,21
+LCKC,Karma,20
+LCKC,Tristana,20
+LCKC,Gragas,19
+LCKC,Lulu,19
+LCKC,Akali,16
+LCKC,Kindred,16
+LCKC,Camille,15
+LCKC,Yorick,15
+LCKC,Caitlyn,14
+LCKC,Zyra,14
+LCKC,Elise,12
+LCKC,Pyke,12
+LCKC,Yunara,12
+LCKC,Zed,9
+LCKC,Smolder,8
+LCKC,Aphelios,7
+LCKC,Hwei,7
+LCKC,Blitzcrank,6
+LCKC,Ivern,6
+LCKC,LeBlanc,6
+LCKC,Ziggs,6
+LCKC,Draven,5
+LCKC,Mel,5
+LCKC,Shen,5
+LCKC,Cassiopeia,4
+LCKC,Olaf,4
+LCKC,Taric,4
+LCKC,Twisted Fate,4
+LCKC,Udyr,4
+LCKC,Yasuo,4
+LCKC,Zoe,4
+LCKC,Karthus,3
+LCKC,Kennen,3
+LCKC,Nami,3
+LCKC,Syndra,3
+LCKC,Tahm Kench,3
+LCKC,Thresh,3
+LCKC,Cho'Gath,2
+LCKC,Irelia,2
+LCKC,Diana,1
+LCKC,Ekko,1
+LCKC,Gangplank,1
+LCKC,Kog'Maw,1
+LCKC,Lux,1
+LCKC,Milio,1
+LCKC,Qiyana,1
+LCKC,Sett,1
+LCKC,Swain,1
+LCKC,Tryndamere,1
+LCKC,Vladimir,1
+LCKC,Volibear,1
+LCKC,Yuumi,1
+LCKC,Zac,1
+LCP,Xin Zhao,63
+LCP,Ambessa,59
+LCP,Varus,57
+LCP,Corki,55
+LCP,Miss Fortune,54
+LCP,Alistar,53
+LCP,Rakan,53
+LCP,Ezreal,51
+LCP,Leona,50
+LCP,Kai'Sa,49
+LCP,Rumble,49
+LCP,Wukong,49
+LCP,Rell,48
+LCP,Azir,46
+LCP,Taliyah,46
+LCP,Vi,46
+LCP,K'Sante,44
+LCP,Aurora,42
+LCP,Nautilus,42
+LCP,Pantheon,42
+LCP,Ahri,41
+LCP,Jayce,39
+LCP,Sejuani,38
+LCP,Braum,37
+LCP,Sion,37
+LCP,Ashe,35
+LCP,Skarner,34
+LCP,Jax,33
+LCP,Viktor,33
+LCP,Galio,31
+LCP,Jhin,30
+LCP,Neeko,29
+LCP,Renata Glasc,27
+LCP,Ryze,27
+LCP,Poppy,26
+LCP,Viego,25
+LCP,Xayah,25
+LCP,Yone,25
+LCP,Nocturne,24
+LCP,Orianna,23
+LCP,Ornn,23
+LCP,Renekton,23
+LCP,Sylas,23
+LCP,Yorick,23
+LCP,Hwei,22
+LCP,Gwen,21
+LCP,Lucian,20
+LCP,Gragas,19
+LCP,Maokai,18
+LCP,Senna,18
+LCP,Annie,17
+LCP,Kalista,17
+LCP,Nidalee,16
+LCP,Akali,15
+LCP,Aatrox,14
+LCP,Elise,14
+LCP,Naafiri,14
+LCP,Tristana,14
+LCP,Udyr,14
+LCP,Zyra,14
+LCP,Caitlyn,13
+LCP,Jarvan IV,13
+LCP,Lee Sin,13
+LCP,Lillia,11
+LCP,Sivir,11
+LCP,Karma,10
+LCP,Pyke,10
+LCP,Bard,9
+LCP,Nami,9
+LCP,Camille,8
+LCP,Jinx,8
+LCP,Shen,8
+LCP,Trundle,8
+LCP,Gnar,7
+LCP,Kindred,7
+LCP,Mel,7
+LCP,Smolder,7
+LCP,Zeri,7
+LCP,Lulu,5
+LCP,Yunara,5
+LCP,Diana,4
+LCP,Ivern,4
+LCP,Ziggs,4
+LCP,Brand,3
+LCP,Sett,3
+LCP,Thresh,3
+LCP,Vladimir,3
+LCP,Blitzcrank,2
+LCP,Malzahar,2
+LCP,Seraphine,2
+LCP,Zac,2
+LCP,Zed,2
+LCP,Aphelios,1
+LCP,Aurelion Sol,1
+LCP,Cho'Gath,1
+LCP,Dr. Mundo,1
+LCP,Draven,1
+LCP,Heimerdinger,1
+LCP,Kennen,1
+LCP,Kog'Maw,1
+LCP,Lissandra,1
+LCP,Lux,1
+LCP,Malphite,1
+LCP,Olaf,1
+LCP,Shyvana,1
+LCP,Swain,1
+LCP,Syndra,1
+LCP,Tahm Kench,1
+LCP,Tryndamere,1
+LCP,Twisted Fate,1
+LCP,Twitch,1
+LCP,Urgot,1
+LCP,Vayne,1
+LCP,Xerath,1
+LCP,Yasuo,1
+LCP,Zilean,1
+LEC,Rell,95
+LEC,Varus,77
+LEC,Corki,76
+LEC,Ezreal,74
+LEC,Rakan,66
+LEC,Alistar,65
+LEC,Sejuani,65
+LEC,Xin Zhao,65
+LEC,Viktor,62
+LEC,Vi,60
+LEC,Azir,59
+LEC,Taliyah,59
+LEC,Ambessa,56
+LEC,Rumble,55
+LEC,Leona,54
+LEC,Kai'Sa,53
+LEC,Maokai,52
+LEC,K'Sante,50
+LEC,Yone,48
+LEC,Pantheon,47
+LEC,Jayce,46
+LEC,Nautilus,42
+LEC,Braum,40
+LEC,Gnar,39
+LEC,Miss Fortune,38
+LEC,Ahri,35
+LEC,Wukong,34
+LEC,Jax,33
+LEC,Skarner,33
+LEC,Aurora,32
+LEC,Gwen,31
+LEC,Orianna,31
+LEC,Poppy,31
+LEC,Sion,29
+LEC,Jhin,28
+LEC,Kalista,28
+LEC,Neeko,27
+LEC,Xayah,25
+LEC,Ryze,24
+LEC,Sylas,24
+LEC,Zyra,24
+LEC,Naafiri,23
+LEC,Galio,21
+LEC,Gragas,21
+LEC,Renata Glasc,21
+LEC,Tristana,21
+LEC,Hwei,20
+LEC,Renekton,20
+LEC,Aatrox,19
+LEC,Ornn,19
+LEC,Ashe,16
+LEC,Nidalee,16
+LEC,Sivir,15
+LEC,Zeri,15
+LEC,Akali,14
+LEC,Ivern,13
+LEC,Lillia,12
+LEC,Jinx,11
+LEC,Karma,11
+LEC,Annie,10
+LEC,Lucian,10
+LEC,Smolder,10
+LEC,Caitlyn,9
+LEC,Camille,9
+LEC,Cho'Gath,9
+LEC,Draven,9
+LEC,Jarvan IV,9
+LEC,Lulu,9
+LEC,Nocturne,9
+LEC,Senna,9
+LEC,Trundle,9
+LEC,Aurelion Sol,7
+LEC,Blitzcrank,7
+LEC,Dr. Mundo,7
+LEC,Yasuo,7
+LEC,Aphelios,6
+LEC,Bard,6
+LEC,Yunara,6
+LEC,Seraphine,5
+LEC,Syndra,5
+LEC,Yorick,5
+LEC,Elise,4
+LEC,Mel,4
+LEC,Thresh,4
+LEC,Vladimir,4
+LEC,Warwick,4
+LEC,Ziggs,4
+LEC,Garen,3
+LEC,Lee Sin,3
+LEC,Nami,3
+LEC,Pyke,3
+LEC,Shen,3
+LEC,Swain,3
+LEC,Anivia,2
+LEC,Brand,2
+LEC,Cassiopeia,2
+LEC,Diana,2
+LEC,Kassadin,2
+LEC,Kennen,2
+LEC,Kog'Maw,2
+LEC,Milio,2
+LEC,Olaf,2
+LEC,Urgot,2
+LEC,Viego,2
+LEC,Volibear,2
+LEC,Zoe,2
+LEC,Amumu,1
+LEC,Fiddlesticks,1
+LEC,LeBlanc,1
+LEC,Malphite,1
+LEC,Nilah,1
+LEC,Sett,1
+LEC,Taric,1
+LEC,Vex,1
+LEC,Yuumi,1
+LEC,Zilean,1
+LFL,Rell,93
+LFL,Xin Zhao,83
+LFL,Ambessa,81
+LFL,Corki,78
+LFL,Rumble,73
+LFL,Ezreal,70
+LFL,Nautilus,66
+LFL,Azir,60
+LFL,Alistar,55
+LFL,Leona,55
+LFL,Orianna,55
+LFL,Rakan,53
+LFL,Sejuani,53
+LFL,Miss Fortune,49
+LFL,Wukong,49
+LFL,Kai'Sa,48
+LFL,Varus,48
+LFL,Vi,46
+LFL,K'Sante,44
+LFL,Maokai,44
+LFL,Taliyah,42
+LFL,Sion,41
+LFL,Ahri,38
+LFL,Gwen,37
+LFL,Aurora,35
+LFL,Jhin,35
+LFL,Pantheon,34
+LFL,Viktor,34
+LFL,Akali,33
+LFL,Jayce,33
+LFL,Skarner,32
+LFL,Gnar,31
+LFL,Aatrox,30
+LFL,Jax,30
+LFL,Trundle,30
+LFL,Renata Glasc,28
+LFL,Kalista,27
+LFL,Naafiri,27
+LFL,Braum,26
+LFL,Neeko,26
+LFL,Sivir,25
+LFL,Sylas,24
+LFL,Yone,24
+LFL,Senna,23
+LFL,Xayah,23
+LFL,Galio,22
+LFL,Ryze,21
+LFL,Annie,20
+LFL,Poppy,20
+LFL,Bard,19
+LFL,Jarvan IV,19
+LFL,Renekton,19
+LFL,Lulu,18
+LFL,Lucian,17
+LFL,Nocturne,16
+LFL,Hwei,15
+LFL,Gragas,14
+LFL,Ornn,14
+LFL,Syndra,14
+LFL,Yunara,14
+LFL,Jinx,12
+LFL,Karma,12
+LFL,Zyra,12
+LFL,Ashe,10
+LFL,Yorick,10
+LFL,Viego,9
+LFL,Caitlyn,8
+LFL,Nilah,7
+LFL,Smolder,7
+LFL,Tristana,7
+LFL,Zeri,7
+LFL,Blitzcrank,6
+LFL,Cassiopeia,6
+LFL,Cho'Gath,6
+LFL,Ivern,6
+LFL,Lee Sin,6
+LFL,Lillia,6
+LFL,Vladimir,6
+LFL,LeBlanc,5
+LFL,Pyke,5
+LFL,Yasuo,5
+LFL,Ziggs,5
+LFL,Amumu,4
+LFL,Aphelios,4
+LFL,Aurelion Sol,4
+LFL,Camille,4
+LFL,Dr. Mundo,4
+LFL,Gangplank,4
+LFL,Soraka,4
+LFL,Volibear,4
+LFL,Kennen,3
+LFL,Seraphine,3
+LFL,Diana,2
+LFL,Draven,2
+LFL,Milio,2
+LFL,Nami,2
+LFL,Shen,2
+LFL,Tahm Kench,2
+LFL,Vayne,2
+LFL,Warwick,2
+LFL,Zac,2
+LFL,Zoe,2
+LFL,Brand,1
+LFL,Elise,1
+LFL,Fiddlesticks,1
+LFL,Irelia,1
+LFL,Kayn,1
+LFL,Kog'Maw,1
+LFL,Malphite,1
+LFL,Mel,1
+LFL,Nunu & Willump,1
+LFL,Rammus,1
+LFL,Riven,1
+LFL,Sett,1
+LFL,Swain,1
+LFL,Vel'Koz,1
+LFL,Xerath,1
+LFL,Yuumi,1
+LFL2,Rell,90
+LFL2,Varus,80
+LFL2,Leona,57
+LFL2,Corki,52
+LFL2,Maokai,51
+LFL2,Alistar,48
+LFL2,Rumble,48
+LFL2,Ambessa,44
+LFL2,K'Sante,41
+LFL2,Nautilus,41
+LFL2,Xin Zhao,39
+LFL2,Ezreal,35
+LFL2,Jayce,35
+LFL2,Miss Fortune,35
+LFL2,Aurora,33
+LFL2,Yone,33
+LFL2,Azir,30
+LFL2,Braum,30
+LFL2,Gwen,30
+LFL2,Sejuani,29
+LFL2,Taliyah,29
+LFL2,Jhin,27
+LFL2,Kai'Sa,27
+LFL2,Rakan,27
+LFL2,Wukong,27
+LFL2,Hwei,26
+LFL2,Pantheon,25
+LFL2,Vi,25
+LFL2,Ahri,24
+LFL2,Renekton,24
+LFL2,Sion,24
+LFL2,Poppy,23
+LFL2,Skarner,23
+LFL2,Viktor,23
+LFL2,Galio,21
+LFL2,Sivir,20
+LFL2,Trundle,19
+LFL2,Ivern,18
+LFL2,Orianna,17
+LFL2,Akali,16
+LFL2,Gnar,14
+LFL2,Zyra,14
+LFL2,Smolder,13
+LFL2,Syndra,13
+LFL2,Aatrox,12
+LFL2,Jax,12
+LFL2,Lillia,12
+LFL2,Sylas,12
+LFL2,Tristana,12
+LFL2,Ashe,11
+LFL2,Kalista,11
+LFL2,Karma,11
+LFL2,Kayn,11
+LFL2,Lucian,11
+LFL2,Naafiri,11
+LFL2,Garen,10
+LFL2,Ornn,10
+LFL2,Senna,10
+LFL2,Jinx,9
+LFL2,Aurelion Sol,8
+LFL2,Bard,8
+LFL2,Kindred,8
+LFL2,Kog'Maw,8
+LFL2,Ryze,8
+LFL2,Shen,8
+LFL2,Xayah,8
+LFL2,Zeri,8
+LFL2,Gragas,7
+LFL2,Mel,7
+LFL2,Nidalee,7
+LFL2,Thresh,7
+LFL2,Amumu,6
+LFL2,Aphelios,6
+LFL2,Irelia,6
+LFL2,Karthus,6
+LFL2,Lulu,6
+LFL2,Renata Glasc,6
+LFL2,Annie,5
+LFL2,Caitlyn,5
+LFL2,Cho'Gath,5
+LFL2,Neeko,5
+LFL2,Nocturne,5
+LFL2,Jarvan IV,4
+LFL2,LeBlanc,4
+LFL2,Viego,4
+LFL2,Yorick,4
+LFL2,Malphite,3
+LFL2,Milio,3
+LFL2,Nilah,3
+LFL2,Nunu & Willump,3
+LFL2,Olaf,3
+LFL2,Talon,3
+LFL2,Blitzcrank,2
+LFL2,Camille,2
+LFL2,Darius,2
+LFL2,Diana,2
+LFL2,Draven,2
+LFL2,Elise,2
+LFL2,Janna,2
+LFL2,Kennen,2
+LFL2,Lee Sin,2
+LFL2,Lux,2
+LFL2,Morgana,2
+LFL2,Nami,2
+LFL2,Riven,2
+LFL2,Seraphine,2
+LFL2,Yasuo,2
+LFL2,Yunara,2
+LFL2,Zed,2
+LFL2,Ziggs,2
+LFL2,Brand,1
+LFL2,Cassiopeia,1
+LFL2,Ekko,1
+LFL2,Fiora,1
+LFL2,Gangplank,1
+LFL2,Lissandra,1
+LFL2,Mordekaiser,1
+LFL2,Qiyana,1
+LFL2,Samira,1
+LFL2,Twisted Fate,1
+LFL2,Vayne,1
+LFL2,Zilean,1
+LIT,Rell,48
+LIT,Leona,37
+LIT,Varus,32
+LIT,Vi,30
+LIT,Xin Zhao,30
+LIT,Corki,29
+LIT,Ezreal,27
+LIT,Nautilus,27
+LIT,Renekton,26
+LIT,Ambessa,22
+LIT,K'Sante,22
+LIT,Maokai,21
+LIT,Rakan,21
+LIT,Ahri,20
+LIT,Azir,20
+LIT,Braum,20
+LIT,Jhin,19
+LIT,Taliyah,19
+LIT,Alistar,18
+LIT,Hwei,18
+LIT,Poppy,18
+LIT,Sejuani,18
+LIT,Sion,18
+LIT,Yone,18
+LIT,Ashe,17
+LIT,Galio,17
+LIT,Kai'Sa,17
+LIT,Pantheon,17
+LIT,Viktor,17
+LIT,Wukong,17
+LIT,Jax,16
+LIT,Orianna,16
+LIT,Rumble,16
+LIT,Gwen,15
+LIT,Jayce,15
+LIT,Miss Fortune,15
+LIT,Viego,15
+LIT,Xayah,15
+LIT,Tristana,14
+LIT,Jinx,13
+LIT,Lillia,13
+LIT,Ryze,13
+LIT,Jarvan IV,12
+LIT,Ornn,12
+LIT,Aatrox,11
+LIT,Akali,11
+LIT,Aurora,11
+LIT,Bard,11
+LIT,Gnar,11
+LIT,Sivir,11
+LIT,Skarner,11
+LIT,Sylas,11
+LIT,Zyra,11
+LIT,Karma,10
+LIT,Naafiri,10
+LIT,Neeko,10
+LIT,Syndra,10
+LIT,Lucian,9
+LIT,Aphelios,8
+LIT,Smolder,8
+LIT,Cho'Gath,7
+LIT,Gragas,7
+LIT,Lulu,7
+LIT,Yorick,7
+LIT,Ziggs,7
+LIT,Kalista,6
+LIT,Nocturne,6
+LIT,Olaf,6
+LIT,Renata Glasc,6
+LIT,Zac,6
+LIT,Fiora,5
+LIT,Ivern,5
+LIT,Sett,5
+LIT,Trundle,5
+LIT,Zeri,5
+LIT,Blitzcrank,4
+LIT,Caitlyn,4
+LIT,Camille,4
+LIT,Darius,4
+LIT,Lee Sin,4
+LIT,Malphite,4
+LIT,Milio,4
+LIT,Veigar,4
+LIT,Zed,4
+LIT,Amumu,3
+LIT,Dr. Mundo,3
+LIT,Draven,3
+LIT,Garen,3
+LIT,Kayn,3
+LIT,Morgana,3
+LIT,Nami,3
+LIT,Seraphine,3
+LIT,Shen,3
+LIT,Thresh,3
+LIT,Annie,2
+LIT,Brand,2
+LIT,Graves,2
+LIT,Irelia,2
+LIT,Janna,2
+LIT,Kennen,2
+LIT,Kindred,2
+LIT,Mel,2
+LIT,Nidalee,2
+LIT,Tahm Kench,2
+LIT,Vladimir,2
+LIT,Volibear,2
+LIT,Yunara,2
+LIT,Zilean,2
+LIT,Aurelion Sol,1
+LIT,Diana,1
+LIT,Kayle,1
+LIT,Kog'Maw,1
+LIT,Lux,1
+LIT,Pyke,1
+LIT,Soraka,1
+LIT,Swain,1
+LIT,Taric,1
+LIT,Udyr,1
+LIT,Urgot,1
+LIT,Vayne,1
+LJL,Varus,136
+LJL,Ambessa,124
+LJL,Rell,114
+LJL,Ezreal,102
+LJL,Xin Zhao,101
+LJL,Braum,98
+LJL,K'Sante,96
+LJL,Taliyah,90
+LJL,Nautilus,89
+LJL,Rumble,81
+LJL,Vi,80
+LJL,Rakan,76
+LJL,Sejuani,76
+LJL,Ahri,75
+LJL,Kai'Sa,68
+LJL,Galio,63
+LJL,Azir,62
+LJL,Leona,61
+LJL,Jayce,60
+LJL,Wukong,59
+LJL,Gwen,57
+LJL,Viego,57
+LJL,Miss Fortune,53
+LJL,Alistar,52
+LJL,Viktor,52
+LJL,Aurora,50
+LJL,Jhin,50
+LJL,Naafiri,49
+LJL,Ashe,48
+LJL,Lucian,47
+LJL,Sion,47
+LJL,Corki,45
+LJL,Skarner,44
+LJL,Hwei,42
+LJL,Renekton,42
+LJL,Pantheon,41
+LJL,Neeko,38
+LJL,Orianna,37
+LJL,Xayah,37
+LJL,Yone,37
+LJL,Jax,36
+LJL,Sylas,35
+LJL,Gnar,33
+LJL,Lillia,33
+LJL,Zyra,33
+LJL,Jinx,32
+LJL,Maokai,30
+LJL,Poppy,27
+LJL,Nocturne,24
+LJL,Tristana,24
+LJL,Yorick,24
+LJL,Akali,23
+LJL,Lulu,23
+LJL,Bard,21
+LJL,Renata Glasc,21
+LJL,Aphelios,20
+LJL,Ornn,20
+LJL,Aatrox,19
+LJL,Karma,19
+LJL,Zeri,19
+LJL,Ryze,18
+LJL,Camille,17
+LJL,Zoe,16
+LJL,Nami,15
+LJL,Senna,15
+LJL,Annie,14
+LJL,Elise,14
+LJL,Jarvan IV,14
+LJL,Lee Sin,13
+LJL,Mel,13
+LJL,Thresh,13
+LJL,Kalista,12
+LJL,Kayn,12
+LJL,Syndra,12
+LJL,LeBlanc,11
+LJL,Vladimir,11
+LJL,Yasuo,11
+LJL,Gragas,10
+LJL,Zed,10
+LJL,Blitzcrank,9
+LJL,Sivir,9
+LJL,Trundle,9
+LJL,Irelia,8
+LJL,Kindred,8
+LJL,Milio,8
+LJL,Fiora,7
+LJL,Lux,7
+LJL,Mordekaiser,7
+LJL,Nidalee,7
+LJL,Shen,7
+LJL,Tahm Kench,7
+LJL,Caitlyn,6
+LJL,Cho'Gath,6
+LJL,Ekko,6
+LJL,Olaf,6
+LJL,Smolder,6
+LJL,Xerath,6
+LJL,Ziggs,6
+LJL,Akshan,5
+LJL,Bel'Veth,5
+LJL,Gangplank,5
+LJL,Kennen,5
+LJL,Urgot,5
+LJL,Yuumi,5
+LJL,Diana,4
+LJL,Draven,4
+LJL,Kassadin,4
+LJL,Kled,4
+LJL,Qiyana,4
+LJL,Rek'Sai,4
+LJL,Seraphine,4
+LJL,Tryndamere,4
+LJL,Anivia,3
+LJL,Cassiopeia,3
+LJL,Evelynn,3
+LJL,Ivern,3
+LJL,Karthus,3
+LJL,Kog'Maw,3
+LJL,Pyke,3
+LJL,Samira,3
+LJL,Udyr,3
+LJL,Brand,2
+LJL,Graves,2
+LJL,Katarina,2
+LJL,Lissandra,2
+LJL,Morgana,2
+LJL,Vel'Koz,2
+LJL,Yunara,2
+LJL,Amumu,1
+LJL,Aurelion Sol,1
+LJL,Dr. Mundo,1
+LJL,Fiddlesticks,1
+LJL,Janna,1
+LJL,Kha'Zix,1
+LJL,Malphite,1
+LJL,Malzahar,1
+LJL,Quinn,1
+LJL,Riven,1
+LJL,Sett,1
+LJL,Shyvana,1
+LJL,Swain,1
+LJL,Teemo,1
+LJL,Twitch,1
+LJL,Veigar,1
+LJL,Vex,1
+LJL,Volibear,1
+LJL,Zac,1
+LPL,Xin Zhao,209
+LPL,Alistar,195
+LPL,Rell,189
+LPL,Taliyah,180
+LPL,Varus,171
+LPL,Rumble,168
+LPL,Ambessa,167
+LPL,Nautilus,164
+LPL,Ezreal,149
+LPL,Kai'Sa,145
+LPL,Aurora,141
+LPL,Vi,141
+LPL,Sion,138
+LPL,Rakan,133
+LPL,Pantheon,132
+LPL,Miss Fortune,131
+LPL,Leona,128
+LPL,Corki,127
+LPL,Jhin,125
+LPL,Ryze,122
+LPL,Braum,117
+LPL,Sejuani,114
+LPL,Azir,112
+LPL,Wukong,108
+LPL,Gwen,103
+LPL,Ahri,101
+LPL,Yone,101
+LPL,Poppy,98
+LPL,Skarner,97
+LPL,Galio,95
+LPL,Jayce,95
+LPL,Neeko,94
+LPL,K'Sante,90
+LPL,Renekton,89
+LPL,Xayah,88
+LPL,Naafiri,86
+LPL,Viktor,84
+LPL,Yorick,84
+LPL,Orianna,82
+LPL,Renata Glasc,80
+LPL,Sylas,78
+LPL,Ornn,76
+LPL,Lucian,69
+LPL,Akali,66
+LPL,Annie,65
+LPL,Jax,65
+LPL,Kalista,64
+LPL,Lillia,64
+LPL,Viego,64
+LPL,Ashe,55
+LPL,Karma,50
+LPL,Gnar,48
+LPL,Trundle,48
+LPL,Maokai,47
+LPL,Nocturne,47
+LPL,Sivir,47
+LPL,Aatrox,43
+LPL,Jinx,40
+LPL,Nidalee,39
+LPL,Lee Sin,37
+LPL,Tristana,35
+LPL,Jarvan IV,34
+LPL,Senna,30
+LPL,Ziggs,30
+LPL,Nami,29
+LPL,Zeri,28
+LPL,Lulu,26
+LPL,Zyra,25
+LPL,Caitlyn,23
+LPL,Camille,21
+LPL,Bard,20
+LPL,Smolder,20
+LPL,Gragas,19
+LPL,Hwei,19
+LPL,Shen,18
+LPL,Elise,17
+LPL,Udyr,16
+LPL,Aphelios,12
+LPL,Draven,12
+LPL,Kennen,12
+LPL,Yunara,12
+LPL,Cho'Gath,11
+LPL,Zed,11
+LPL,Seraphine,10
+LPL,Blitzcrank,9
+LPL,Kindred,9
+LPL,LeBlanc,9
+LPL,Volibear,8
+LPL,Olaf,7
+LPL,Sett,7
+LPL,Vladimir,7
+LPL,Yasuo,7
+LPL,Thresh,6
+LPL,Cassiopeia,5
+LPL,Milio,5
+LPL,Yuumi,5
+LPL,Syndra,4
+LPL,Karthus,3
+LPL,Kassadin,3
+LPL,Lissandra,3
+LPL,Mel,3
+LPL,Mordekaiser,3
+LPL,Swain,3
+LPL,Zac,3
+LPL,Aurelion Sol,2
+LPL,Brand,2
+LPL,Diana,2
+LPL,Kog'Maw,2
+LPL,Lux,2
+LPL,Nasus,2
+LPL,Pyke,2
+LPL,Taric,2
+LPL,Tryndamere,2
+LPL,Twisted Fate,2
+LPL,Twitch,2
+LPL,Ekko,1
+LPL,Fiora,1
+LPL,Gangplank,1
+LPL,Graves,1
+LPL,Ivern,1
+LPL,Kha'Zix,1
+LPL,Kled,1
+LPL,Rengar,1
+LPL,Shyvana,1
+LPL,Singed,1
+LPL,Soraka,1
+LPL,Tahm Kench,1
+LPL,Talon,1
+LPL,Urgot,1
+LPLOL,Rell,35
+LPLOL,Varus,33
+LPLOL,Nautilus,25
+LPLOL,K'Sante,23
+LPLOL,Maokai,22
+LPLOL,Xin Zhao,22
+LPLOL,Corki,21
+LPLOL,Hwei,21
+LPLOL,Leona,21
+LPLOL,Ambessa,20
+LPLOL,Vi,20
+LPLOL,Wukong,19
+LPLOL,Sion,17
+LPLOL,Braum,16
+LPLOL,Rakan,16
+LPLOL,Aurora,15
+LPLOL,Azir,15
+LPLOL,Ezreal,15
+LPLOL,Jhin,15
+LPLOL,Kai'Sa,15
+LPLOL,Renekton,15
+LPLOL,Taliyah,15
+LPLOL,Viktor,15
+LPLOL,Jinx,14
+LPLOL,Poppy,14
+LPLOL,Ahri,13
+LPLOL,Jayce,13
+LPLOL,Miss Fortune,13
+LPLOL,Ornn,13
+LPLOL,Pantheon,13
+LPLOL,Tristana,13
+LPLOL,Sylas,12
+LPLOL,Karma,11
+LPLOL,Lillia,11
+LPLOL,Orianna,11
+LPLOL,Yone,11
+LPLOL,Ashe,10
+LPLOL,Lulu,10
+LPLOL,Nocturne,10
+LPLOL,Rumble,10
+LPLOL,Alistar,9
+LPLOL,Gwen,9
+LPLOL,Mel,9
+LPLOL,Viego,9
+LPLOL,Ivern,8
+LPLOL,Naafiri,8
+LPLOL,Xayah,8
+LPLOL,Zyra,8
+LPLOL,Aatrox,7
+LPLOL,Camille,7
+LPLOL,Galio,7
+LPLOL,Gnar,7
+LPLOL,Sivir,7
+LPLOL,Skarner,7
+LPLOL,Zed,7
+LPLOL,Zeri,7
+LPLOL,Dr. Mundo,6
+LPLOL,Lee Sin,6
+LPLOL,Milio,6
+LPLOL,Neeko,6
+LPLOL,Smolder,6
+LPLOL,Syndra,6
+LPLOL,Trundle,6
+LPLOL,Akali,5
+LPLOL,Bard,5
+LPLOL,Blitzcrank,5
+LPLOL,Caitlyn,5
+LPLOL,Cho'Gath,5
+LPLOL,Garen,5
+LPLOL,Gragas,5
+LPLOL,Jarvan IV,5
+LPLOL,Ryze,5
+LPLOL,Seraphine,5
+LPLOL,Sett,5
+LPLOL,Thresh,5
+LPLOL,Yunara,5
+LPLOL,Annie,4
+LPLOL,Kindred,4
+LPLOL,Lissandra,4
+LPLOL,Lucian,4
+LPLOL,Cassiopeia,3
+LPLOL,Elise,3
+LPLOL,Jax,3
+LPLOL,Kennen,3
+LPLOL,LeBlanc,3
+LPLOL,Nidalee,3
+LPLOL,Renata Glasc,3
+LPLOL,Sejuani,3
+LPLOL,Senna,3
+LPLOL,Shen,3
+LPLOL,Twitch,3
+LPLOL,Volibear,3
+LPLOL,Zilean,3
+LPLOL,Amumu,2
+LPLOL,Brand,2
+LPLOL,Fiora,2
+LPLOL,Irelia,2
+LPLOL,Janna,2
+LPLOL,Karthus,2
+LPLOL,Kayn,2
+LPLOL,Kled,2
+LPLOL,Lux,2
+LPLOL,Morgana,2
+LPLOL,Nami,2
+LPLOL,Nasus,2
+LPLOL,Olaf,2
+LPLOL,Riven,2
+LPLOL,Vayne,2
+LPLOL,Vel'Koz,2
+LPLOL,Vex,2
+LPLOL,Yasuo,2
+LPLOL,Yorick,2
+LPLOL,Zac,2
+LPLOL,Ziggs,2
+LPLOL,Zoe,2
+LPLOL,Aphelios,1
+LPLOL,Bel'Veth,1
+LPLOL,Hecarim,1
+LPLOL,Katarina,1
+LPLOL,Kog'Maw,1
+LPLOL,Malphite,1
+LPLOL,Pyke,1
+LPLOL,Rengar,1
+LPLOL,Soraka,1
+LPLOL,Swain,1
+LPLOL,Talon,1
+LPLOL,Taric,1
+LPLOL,Twisted Fate,1
+LPLOL,Veigar,1
+LPLOL,Vladimir,1
+LPLOL,Warwick,1
+LPLOL,Yuumi,1
+LRN,Varus,39
+LRN,Xin Zhao,39
+LRN,Ezreal,37
+LRN,Rell,37
+LRN,Rumble,37
+LRN,Nautilus,35
+LRN,Taliyah,35
+LRN,Alistar,34
+LRN,Rakan,31
+LRN,Vi,31
+LRN,Leona,30
+LRN,Corki,26
+LRN,Jhin,25
+LRN,Ryze,25
+LRN,Renekton,24
+LRN,Azir,23
+LRN,Pantheon,23
+LRN,Ambessa,22
+LRN,Aurora,22
+LRN,Galio,22
+LRN,K'Sante,22
+LRN,Braum,21
+LRN,Sejuani,21
+LRN,Viktor,21
+LRN,Wukong,21
+LRN,Kai'Sa,20
+LRN,Lucian,20
+LRN,Sion,19
+LRN,Jayce,18
+LRN,Gwen,17
+LRN,Miss Fortune,17
+LRN,Orianna,17
+LRN,Ahri,16
+LRN,Maokai,15
+LRN,Poppy,15
+LRN,Tristana,15
+LRN,Hwei,14
+LRN,Jax,14
+LRN,Ashe,13
+LRN,Naafiri,13
+LRN,Trundle,13
+LRN,Xayah,13
+LRN,Gnar,12
+LRN,Kalista,12
+LRN,Neeko,12
+LRN,Yone,12
+LRN,Aatrox,11
+LRN,Akali,11
+LRN,Jarvan IV,11
+LRN,Viego,11
+LRN,Skarner,10
+LRN,Karma,9
+LRN,Zeri,9
+LRN,Bard,8
+LRN,Renata Glasc,8
+LRN,Yorick,8
+LRN,Lulu,7
+LRN,Smolder,7
+LRN,Sylas,7
+LRN,Camille,6
+LRN,Nami,6
+LRN,Ornn,6
+LRN,Zyra,6
+LRN,Dr. Mundo,5
+LRN,Draven,5
+LRN,Mel,5
+LRN,Nunu & Willump,5
+LRN,Volibear,5
+LRN,Cho'Gath,4
+LRN,Gangplank,4
+LRN,Gragas,4
+LRN,Irelia,4
+LRN,Milio,4
+LRN,Seraphine,4
+LRN,Shen,4
+LRN,Sivir,4
+LRN,Vladimir,4
+LRN,Annie,3
+LRN,Lillia,3
+LRN,Malphite,3
+LRN,Nocturne,3
+LRN,Senna,3
+LRN,Syndra,3
+LRN,Ziggs,3
+LRN,Aphelios,2
+LRN,Blitzcrank,2
+LRN,Diana,2
+LRN,Garen,2
+LRN,Jinx,2
+LRN,Kayle,2
+LRN,LeBlanc,2
+LRN,Lee Sin,2
+LRN,Yasuo,2
+LRN,Yunara,2
+LRN,Zed,2
+LRN,Aurelion Sol,1
+LRN,Brand,1
+LRN,Caitlyn,1
+LRN,Cassiopeia,1
+LRN,Ivern,1
+LRN,Janna,1
+LRN,Karthus,1
+LRN,Kindred,1
+LRN,Kog'Maw,1
+LRN,Lissandra,1
+LRN,Riven,1
+LRN,Samira,1
+LRN,Shyvana,1
+LRN,Singed,1
+LRN,Soraka,1
+LRN,Taric,1
+LRN,Thresh,1
+LRN,Tryndamere,1
+LRN,Twisted Fate,1
+LRN,Urgot,1
+LRN,Veigar,1
+LRN,Vex,1
+LRN,Zac,1
+LRN,Zilean,1
+LRN,Zoe,1
+LRS,Xin Zhao,34
+LRS,Ambessa,32
+LRS,Rakan,28
+LRS,Rumble,28
+LRS,Rell,27
+LRS,Jhin,26
+LRS,Varus,26
+LRS,Vi,26
+LRS,Azir,24
+LRS,Ezreal,24
+LRS,Leona,24
+LRS,Renekton,24
+LRS,Aurora,23
+LRS,Nautilus,23
+LRS,Sion,23
+LRS,Wukong,23
+LRS,Ahri,22
+LRS,Kai'Sa,22
+LRS,Neeko,22
+LRS,Alistar,21
+LRS,Braum,20
+LRS,Jayce,20
+LRS,Taliyah,19
+LRS,Corki,18
+LRS,Trundle,17
+LRS,Aatrox,16
+LRS,Ashe,16
+LRS,Galio,16
+LRS,Skarner,16
+LRS,Viktor,16
+LRS,Ryze,15
+LRS,Sivir,15
+LRS,Xayah,15
+LRS,Pantheon,14
+LRS,Yone,14
+LRS,Gwen,13
+LRS,Karma,13
+LRS,Lucian,13
+LRS,Miss Fortune,12
+LRS,Nocturne,12
+LRS,Orianna,12
+LRS,Sejuani,12
+LRS,Sylas,12
+LRS,Akali,11
+LRS,Naafiri,11
+LRS,Yorick,11
+LRS,Lillia,10
+LRS,Maokai,10
+LRS,Tristana,10
+LRS,Jax,9
+LRS,Jarvan IV,8
+LRS,Renata Glasc,8
+LRS,Annie,7
+LRS,Bard,7
+LRS,Gnar,7
+LRS,Hwei,7
+LRS,Senna,7
+LRS,Kalista,6
+LRS,Nami,6
+LRS,Syndra,6
+LRS,Zeri,6
+LRS,Caitlyn,5
+LRS,Camille,5
+LRS,K'Sante,5
+LRS,Mordekaiser,5
+LRS,Ornn,5
+LRS,Poppy,5
+LRS,Shen,5
+LRS,Smolder,5
+LRS,Yunara,5
+LRS,Zyra,5
+LRS,Ivern,4
+LRS,Pyke,4
+LRS,Seraphine,4
+LRS,Tahm Kench,4
+LRS,Viego,4
+LRS,Vladimir,4
+LRS,Yasuo,4
+LRS,Zed,4
+LRS,Gragas,3
+LRS,Kindred,3
+LRS,LeBlanc,3
+LRS,Lee Sin,3
+LRS,Nidalee,3
+LRS,Vayne,3
+LRS,Amumu,2
+LRS,Aphelios,2
+LRS,Brand,2
+LRS,Darius,2
+LRS,Elise,2
+LRS,Jinx,2
+LRS,Lulu,2
+LRS,Milio,2
+LRS,Akshan,1
+LRS,Blitzcrank,1
+LRS,Cassiopeia,1
+LRS,Cho'Gath,1
+LRS,Diana,1
+LRS,Dr. Mundo,1
+LRS,Illaoi,1
+LRS,Irelia,1
+LRS,Kassadin,1
+LRS,Kennen,1
+LRS,Kha'Zix,1
+LRS,Mel,1
+LRS,Nilah,1
+LRS,Olaf,1
+LRS,Sett,1
+LRS,Teemo,1
+LRS,Thresh,1
+LRS,Volibear,1
+LRS,Ziggs,1
+LTA,Ezreal,7
+LTA,Sejuani,7
+LTA,Ambessa,6
+LTA,Azir,6
+LTA,Corki,6
+LTA,Kai'Sa,6
+LTA,Rell,6
+LTA,Jax,5
+LTA,K'Sante,5
+LTA,Pantheon,5
+LTA,Poppy,5
+LTA,Rakan,5
+LTA,Taliyah,5
+LTA,Varus,5
+LTA,Vi,5
+LTA,Aurora,4
+LTA,Nautilus,4
+LTA,Skarner,4
+LTA,Xin Zhao,4
+LTA,Zyra,4
+LTA,Alistar,3
+LTA,Ashe,3
+LTA,Braum,3
+LTA,Gnar,3
+LTA,Jhin,3
+LTA,Leona,3
+LTA,Maokai,3
+LTA,Viktor,3
+LTA,Xayah,3
+LTA,Yone,3
+LTA,Ziggs,3
+LTA,Ahri,2
+LTA,Gangplank,2
+LTA,Hwei,2
+LTA,Ivern,2
+LTA,Jayce,2
+LTA,Kalista,2
+LTA,Lillia,2
+LTA,Orianna,2
+LTA,Rumble,2
+LTA,Sion,2
+LTA,Aatrox,1
+LTA,Akali,1
+LTA,Aurelion Sol,1
+LTA,Bard,1
+LTA,Camille,1
+LTA,Cassiopeia,1
+LTA,Elise,1
+LTA,Garen,1
+LTA,Mel,1
+LTA,Miss Fortune,1
+LTA,Neeko,1
+LTA,Nidalee,1
+LTA,Nocturne,1
+LTA,Olaf,1
+LTA,Ornn,1
+LTA,Pyke,1
+LTA,Renata Glasc,1
+LTA,Renekton,1
+LTA,Shen,1
+LTA,Sylas,1
+LTA,Volibear,1
+LTA,Wukong,1
+LTA,Zeri,1
+LTA N,Xin Zhao,49
+LTA N,Ezreal,47
+LTA N,Alistar,46
+LTA N,Azir,46
+LTA N,Taliyah,45
+LTA N,Varus,44
+LTA N,Rumble,43
+LTA N,Sejuani,39
+LTA N,Rakan,36
+LTA N,Corki,35
+LTA N,Rell,35
+LTA N,Nautilus,31
+LTA N,Renekton,31
+LTA N,Vi,31
+LTA N,Ambessa,28
+LTA N,Kai'Sa,27
+LTA N,Leona,27
+LTA N,Neeko,27
+LTA N,Jayce,25
+LTA N,Naafiri,25
+LTA N,Skarner,25
+LTA N,Wukong,25
+LTA N,Sion,24
+LTA N,Viktor,24
+LTA N,Yone,23
+LTA N,Aurora,21
+LTA N,Maokai,21
+LTA N,Poppy,21
+LTA N,Ryze,21
+LTA N,Ahri,20
+LTA N,Braum,20
+LTA N,Gwen,20
+LTA N,Gnar,19
+LTA N,Jhin,19
+LTA N,K'Sante,19
+LTA N,Pantheon,19
+LTA N,Galio,17
+LTA N,Kalista,17
+LTA N,Sylas,17
+LTA N,Lucian,16
+LTA N,Miss Fortune,16
+LTA N,Orianna,16
+LTA N,Renata Glasc,16
+LTA N,Ziggs,16
+LTA N,Aatrox,14
+LTA N,Annie,14
+LTA N,Trundle,14
+LTA N,Bard,13
+LTA N,Ashe,11
+LTA N,Senna,11
+LTA N,Xayah,11
+LTA N,Sivir,10
+LTA N,Yorick,10
+LTA N,Jarvan IV,9
+LTA N,Jax,9
+LTA N,Lillia,8
+LTA N,Nocturne,8
+LTA N,Cassiopeia,7
+LTA N,Milio,7
+LTA N,Tristana,7
+LTA N,Gragas,6
+LTA N,Hwei,6
+LTA N,Jinx,6
+LTA N,Karma,6
+LTA N,Ornn,6
+LTA N,Viego,6
+LTA N,Yunara,6
+LTA N,Aphelios,5
+LTA N,Caitlyn,5
+LTA N,Nidalee,5
+LTA N,Smolder,5
+LTA N,Zeri,5
+LTA N,Camille,4
+LTA N,Cho'Gath,4
+LTA N,Elise,4
+LTA N,Ivern,4
+LTA N,Nami,4
+LTA N,Akali,3
+LTA N,Lee Sin,3
+LTA N,Lulu,3
+LTA N,Riven,3
+LTA N,Urgot,3
+LTA N,Zyra,3
+LTA N,Blitzcrank,2
+LTA N,Dr. Mundo,2
+LTA N,Kha'Zix,2
+LTA N,Olaf,2
+LTA N,Shen,2
+LTA N,Swain,2
+LTA N,Thresh,2
+LTA N,Vladimir,2
+LTA N,Volibear,2
+LTA N,Xerath,2
+LTA N,Amumu,1
+LTA N,Draven,1
+LTA N,Garen,1
+LTA N,Irelia,1
+LTA N,Janna,1
+LTA N,Kled,1
+LTA N,Kog'Maw,1
+LTA N,LeBlanc,1
+LTA N,Malphite,1
+LTA N,Malzahar,1
+LTA N,Mordekaiser,1
+LTA N,Sett,1
+LTA N,Udyr,1
+LTA S,Rell,50
+LTA S,Xin Zhao,49
+LTA S,Rakan,45
+LTA S,Vi,45
+LTA S,Alistar,44
+LTA S,Rumble,43
+LTA S,Sejuani,43
+LTA S,Ahri,42
+LTA S,Ambessa,40
+LTA S,Miss Fortune,39
+LTA S,Ezreal,37
+LTA S,Corki,35
+LTA S,Azir,34
+LTA S,Taliyah,34
+LTA S,Ashe,32
+LTA S,Nautilus,32
+LTA S,Gwen,31
+LTA S,Jayce,27
+LTA S,Sion,27
+LTA S,Jhin,26
+LTA S,Neeko,26
+LTA S,Wukong,26
+LTA S,Aurora,25
+LTA S,Braum,25
+LTA S,Kai'Sa,25
+LTA S,Jax,24
+LTA S,Renekton,24
+LTA S,Skarner,24
+LTA S,Varus,24
+LTA S,Pantheon,22
+LTA S,Poppy,22
+LTA S,K'Sante,21
+LTA S,Sylas,20
+LTA S,Galio,19
+LTA S,Leona,19
+LTA S,Viktor,19
+LTA S,Yone,19
+LTA S,Aatrox,18
+LTA S,Maokai,18
+LTA S,Ryze,18
+LTA S,Akali,17
+LTA S,Lucian,17
+LTA S,Annie,15
+LTA S,Nami,14
+LTA S,Senna,14
+LTA S,Xayah,14
+LTA S,Gnar,13
+LTA S,Naafiri,13
+LTA S,Orianna,13
+LTA S,Bard,12
+LTA S,Zeri,12
+LTA S,Caitlyn,11
+LTA S,Kalista,11
+LTA S,Lillia,11
+LTA S,Nocturne,11
+LTA S,Trundle,11
+LTA S,Sivir,10
+LTA S,Yorick,10
+LTA S,Camille,8
+LTA S,Tristana,8
+LTA S,Karma,7
+LTA S,Renata Glasc,7
+LTA S,Ivern,6
+LTA S,Jarvan IV,6
+LTA S,Viego,6
+LTA S,Cho'Gath,5
+LTA S,Gragas,5
+LTA S,Seraphine,5
+LTA S,Smolder,5
+LTA S,Zyra,5
+LTA S,Lulu,4
+LTA S,Olaf,4
+LTA S,Yunara,4
+LTA S,Blitzcrank,3
+LTA S,Cassiopeia,3
+LTA S,Fiora,3
+LTA S,Jinx,3
+LTA S,Lee Sin,3
+LTA S,Mel,3
+LTA S,Syndra,3
+LTA S,Ziggs,3
+LTA S,Draven,2
+LTA S,Elise,2
+LTA S,Hwei,2
+LTA S,LeBlanc,2
+LTA S,Nidalee,2
+LTA S,Ornn,2
+LTA S,Volibear,2
+LTA S,Xerath,2
+LTA S,Yasuo,2
+LTA S,Zoe,2
+LTA S,Aphelios,1
+LTA S,Brand,1
+LTA S,Dr. Mundo,1
+LTA S,Fiddlesticks,1
+LTA S,Gangplank,1
+LTA S,Garen,1
+LTA S,Lux,1
+LTA S,Milio,1
+LTA S,Pyke,1
+LTA S,Shen,1
+LTA S,Soraka,1
+LTA S,Swain,1
+LTA S,Thresh,1
+LTA S,Twisted Fate,1
+LTA S,Udyr,1
+LTA S,Veigar,1
+LTA S,Vladimir,1
+LTA S,Zac,1
+LTA S,Zed,1
+LVP SL,Varus,89
+LVP SL,Rell,86
+LVP SL,Alistar,74
+LVP SL,Azir,72
+LVP SL,Corki,70
+LVP SL,Rakan,70
+LVP SL,Ezreal,67
+LVP SL,Xin Zhao,65
+LVP SL,Taliyah,59
+LVP SL,Vi,59
+LVP SL,K'Sante,57
+LVP SL,Nautilus,56
+LVP SL,Ambessa,53
+LVP SL,Ahri,52
+LVP SL,Rumble,49
+LVP SL,Sion,46
+LVP SL,Leona,43
+LVP SL,Orianna,43
+LVP SL,Sejuani,43
+LVP SL,Viktor,43
+LVP SL,Wukong,43
+LVP SL,Maokai,37
+LVP SL,Miss Fortune,37
+LVP SL,Braum,36
+LVP SL,Jayce,36
+LVP SL,Kai'Sa,36
+LVP SL,Gnar,32
+LVP SL,Poppy,32
+LVP SL,Yone,31
+LVP SL,Jhin,30
+LVP SL,Xayah,30
+LVP SL,Nocturne,26
+LVP SL,Syndra,26
+LVP SL,Gwen,24
+LVP SL,Ornn,24
+LVP SL,Aurora,23
+LVP SL,Pantheon,23
+LVP SL,Skarner,23
+LVP SL,Jax,22
+LVP SL,Aatrox,20
+LVP SL,Naafiri,20
+LVP SL,Viego,20
+LVP SL,Galio,19
+LVP SL,Sivir,18
+LVP SL,Bard,17
+LVP SL,Jinx,17
+LVP SL,Renekton,17
+LVP SL,Ryze,17
+LVP SL,Lee Sin,16
+LVP SL,Lucian,16
+LVP SL,Sylas,15
+LVP SL,Akali,13
+LVP SL,Ashe,13
+LVP SL,Hwei,13
+LVP SL,Jarvan IV,13
+LVP SL,Neeko,13
+LVP SL,Nidalee,13
+LVP SL,Renata Glasc,13
+LVP SL,Trundle,13
+LVP SL,Lillia,11
+LVP SL,Tristana,11
+LVP SL,Cho'Gath,10
+LVP SL,Zyra,10
+LVP SL,Kalista,9
+LVP SL,Shen,9
+LVP SL,Camille,8
+LVP SL,Zeri,8
+LVP SL,Gragas,7
+LVP SL,Lulu,7
+LVP SL,Yorick,7
+LVP SL,Kindred,6
+LVP SL,Nami,6
+LVP SL,Smolder,6
+LVP SL,Caitlyn,5
+LVP SL,Dr. Mundo,4
+LVP SL,Draven,4
+LVP SL,Ivern,4
+LVP SL,Karma,4
+LVP SL,Lux,4
+LVP SL,Malphite,4
+LVP SL,Mel,4
+LVP SL,Senna,4
+LVP SL,Seraphine,4
+LVP SL,Yunara,4
+LVP SL,Ziggs,4
+LVP SL,Annie,3
+LVP SL,Aphelios,3
+LVP SL,Brand,3
+LVP SL,Fiddlesticks,3
+LVP SL,Kennen,3
+LVP SL,Taric,3
+LVP SL,Twitch,3
+LVP SL,Amumu,2
+LVP SL,Aurelion Sol,2
+LVP SL,Blitzcrank,2
+LVP SL,Darius,2
+LVP SL,Elise,2
+LVP SL,Katarina,2
+LVP SL,Pyke,2
+LVP SL,Swain,2
+LVP SL,Tryndamere,2
+LVP SL,Cassiopeia,1
+LVP SL,Fiora,1
+LVP SL,Garen,1
+LVP SL,Irelia,1
+LVP SL,Janna,1
+LVP SL,LeBlanc,1
+LVP SL,Lissandra,1
+LVP SL,Rek'Sai,1
+LVP SL,Sona,1
+LVP SL,Vayne,1
+LVP SL,Veigar,1
+LVP SL,Vex,1
+LVP SL,Vladimir,1
+LVP SL,Zac,1
+MSI,Rell,18
+MSI,Alistar,17
+MSI,Jhin,17
+MSI,Rumble,17
+MSI,Vi,17
+MSI,Xin Zhao,17
+MSI,Aurora,16
+MSI,Corki,16
+MSI,Neeko,16
+MSI,Poppy,16
+MSI,Ryze,16
+MSI,Wukong,16
+MSI,Annie,15
+MSI,Ezreal,15
+MSI,Rakan,15
+MSI,Sion,15
+MSI,Taliyah,15
+MSI,Nautilus,14
+MSI,Trundle,14
+MSI,Varus,14
+MSI,Braum,13
+MSI,Lucian,13
+MSI,Pantheon,13
+MSI,Skarner,13
+MSI,Ambessa,12
+MSI,Galio,12
+MSI,K'Sante,12
+MSI,Kai'Sa,12
+MSI,Orianna,12
+MSI,Renekton,12
+MSI,Senna,12
+MSI,Aatrox,11
+MSI,Ahri,11
+MSI,Jax,11
+MSI,Leona,11
+MSI,Miss Fortune,11
+MSI,Viktor,11
+MSI,Xayah,11
+MSI,Azir,10
+MSI,Jarvan IV,10
+MSI,Kalista,10
+MSI,Karma,10
+MSI,Gwen,9
+MSI,Ornn,9
+MSI,Renata Glasc,9
+MSI,Yorick,9
+MSI,Bard,8
+MSI,Caitlyn,8
+MSI,Gragas,8
+MSI,Maokai,8
+MSI,Sylas,8
+MSI,Twisted Fate,8
+MSI,Jayce,7
+MSI,Lee Sin,7
+MSI,Nocturne,7
+MSI,Naafiri,6
+MSI,Sejuani,6
+MSI,Tahm Kench,6
+MSI,Akali,5
+MSI,Gnar,5
+MSI,Jinx,5
+MSI,Sivir,5
+MSI,Ashe,4
+MSI,Blitzcrank,4
+MSI,Hwei,4
+MSI,Shen,4
+MSI,Tristana,4
+MSI,Viego,4
+MSI,Yone,4
+MSI,Ziggs,4
+MSI,Cassiopeia,3
+MSI,Cho'Gath,3
+MSI,Lillia,3
+MSI,Seraphine,3
+MSI,Thresh,3
+MSI,Camille,2
+MSI,Gangplank,2
+MSI,Nami,2
+MSI,Nidalee,2
+MSI,Olaf,2
+MSI,Pyke,2
+MSI,Smolder,2
+MSI,Syndra,2
+MSI,Zed,2
+MSI,Aphelios,1
+MSI,Aurelion Sol,1
+MSI,Dr. Mundo,1
+MSI,Draven,1
+MSI,Elise,1
+MSI,Fiora,1
+MSI,Garen,1
+MSI,Irelia,1
+MSI,Kassadin,1
+MSI,Kha'Zix,1
+MSI,LeBlanc,1
+MSI,Mordekaiser,1
+MSI,Nilah,1
+MSI,Nunu & Willump,1
+MSI,Sett,1
+MSI,Swain,1
+MSI,Urgot,1
+MSI,Veigar,1
+MSI,Warwick,1
+MSI,Yasuo,1
+MSI,Zeri,1
+MSI,Zilean,1
+MSI,Zyra,1
+NACL,Rakan,65
+NACL,Xin Zhao,60
+NACL,Rumble,55
+NACL,Alistar,54
+NACL,Corki,53
+NACL,Varus,52
+NACL,Ambessa,50
+NACL,Taliyah,50
+NACL,Azir,48
+NACL,Nautilus,48
+NACL,Vi,48
+NACL,Jhin,45
+NACL,Maokai,45
+NACL,Rell,45
+NACL,Sion,45
+NACL,Wukong,43
+NACL,Ezreal,41
+NACL,Orianna,41
+NACL,Viktor,40
+NACL,Gwen,39
+NACL,Sejuani,39
+NACL,Miss Fortune,37
+NACL,Jayce,36
+NACL,Lucian,34
+NACL,Tristana,34
+NACL,Pantheon,32
+NACL,Yone,31
+NACL,Leona,30
+NACL,Naafiri,29
+NACL,Ryze,29
+NACL,Braum,28
+NACL,Jax,28
+NACL,Xayah,28
+NACL,Aurora,27
+NACL,Hwei,27
+NACL,Ahri,24
+NACL,K'Sante,24
+NACL,Kai'Sa,24
+NACL,Poppy,24
+NACL,Trundle,24
+NACL,Neeko,23
+NACL,Renekton,23
+NACL,Senna,22
+NACL,Karma,19
+NACL,Lillia,18
+NACL,Milio,18
+NACL,Skarner,18
+NACL,Ashe,17
+NACL,Shen,16
+NACL,Sylas,16
+NACL,Galio,15
+NACL,Gnar,15
+NACL,Aatrox,14
+NACL,Jinx,14
+NACL,Gragas,13
+NACL,Syndra,13
+NACL,Jarvan IV,12
+NACL,Renata Glasc,12
+NACL,Kalista,11
+NACL,Lulu,11
+NACL,Ziggs,11
+NACL,Nami,10
+NACL,Nidalee,10
+NACL,Sivir,10
+NACL,Bard,9
+NACL,Nocturne,9
+NACL,Akali,8
+NACL,Annie,8
+NACL,Caitlyn,8
+NACL,Dr. Mundo,8
+NACL,Olaf,8
+NACL,Smolder,8
+NACL,Yorick,7
+NACL,Zeri,7
+NACL,Camille,6
+NACL,Ivern,6
+NACL,Viego,6
+NACL,Zed,6
+NACL,Kindred,5
+NACL,Mel,5
+NACL,Seraphine,5
+NACL,Vladimir,5
+NACL,Zyra,5
+NACL,Aphelios,4
+NACL,Cho'Gath,4
+NACL,Ornn,4
+NACL,Taric,4
+NACL,Vayne,4
+NACL,Yunara,4
+NACL,Cassiopeia,3
+NACL,Darius,3
+NACL,Gangplank,3
+NACL,Garen,3
+NACL,Lissandra,3
+NACL,Lux,3
+NACL,Mordekaiser,3
+NACL,Thresh,3
+NACL,Zilean,3
+NACL,Anivia,2
+NACL,Fiddlesticks,2
+NACL,LeBlanc,2
+NACL,Lee Sin,2
+NACL,Sett,2
+NACL,Soraka,2
+NACL,Twisted Fate,2
+NACL,Veigar,2
+NACL,Volibear,2
+NACL,Yasuo,2
+NACL,Aurelion Sol,1
+NACL,Blitzcrank,1
+NACL,Draven,1
+NACL,Elise,1
+NACL,Illaoi,1
+NACL,Irelia,1
+NACL,Janna,1
+NACL,Kha'Zix,1
+NACL,Kog'Maw,1
+NACL,Malphite,1
+NACL,Nunu & Willump,1
+NACL,Pyke,1
+NACL,Rek'Sai,1
+NACL,Rengar,1
+NACL,Riven,1
+NACL,Shaco,1
+NACL,Shyvana,1
+NACL,Tahm Kench,1
+NACL,Twitch,1
+NACL,Udyr,1
+NACL,Warwick,1
+NACL,Yuumi,1
+NACL,Zac,1
+NEXO,Rell,72
+NEXO,Varus,55
+NEXO,Ambessa,47
+NEXO,Corki,46
+NEXO,Ezreal,43
+NEXO,Nautilus,42
+NEXO,Xin Zhao,38
+NEXO,Maokai,36
+NEXO,Vi,36
+NEXO,K'Sante,35
+NEXO,Alistar,33
+NEXO,Sejuani,33
+NEXO,Viktor,32
+NEXO,Braum,31
+NEXO,Leona,31
+NEXO,Taliyah,29
+NEXO,Kai'Sa,26
+NEXO,Syndra,25
+NEXO,Tristana,25
+NEXO,Aurora,24
+NEXO,Miss Fortune,24
+NEXO,Orianna,24
+NEXO,Skarner,24
+NEXO,Jayce,23
+NEXO,Poppy,23
+NEXO,Yone,23
+NEXO,Rakan,22
+NEXO,Ahri,21
+NEXO,Hwei,21
+NEXO,Mel,21
+NEXO,Pantheon,21
+NEXO,Jhin,20
+NEXO,Renekton,20
+NEXO,Naafiri,19
+NEXO,Sion,19
+NEXO,Wukong,19
+NEXO,Azir,17
+NEXO,Neeko,17
+NEXO,Viego,17
+NEXO,Shen,16
+NEXO,Rumble,15
+NEXO,Gwen,14
+NEXO,Jinx,13
+NEXO,Ornn,13
+NEXO,Sylas,12
+NEXO,Gnar,11
+NEXO,Ivern,10
+NEXO,Lillia,10
+NEXO,Senna,10
+NEXO,Trundle,10
+NEXO,Akali,9
+NEXO,Fiora,9
+NEXO,Jarvan IV,9
+NEXO,Camille,8
+NEXO,Xayah,8
+NEXO,Aatrox,7
+NEXO,Bard,7
+NEXO,Galio,7
+NEXO,Olaf,7
+NEXO,Yorick,7
+NEXO,Zeri,7
+NEXO,Zyra,7
+NEXO,Gragas,6
+NEXO,Lulu,6
+NEXO,Smolder,6
+NEXO,Ashe,5
+NEXO,Jax,5
+NEXO,Kalista,5
+NEXO,LeBlanc,5
+NEXO,Lucian,5
+NEXO,Renata Glasc,5
+NEXO,Sivir,5
+NEXO,Aphelios,4
+NEXO,Cho'Gath,4
+NEXO,Fiddlesticks,4
+NEXO,Malphite,4
+NEXO,Nocturne,4
+NEXO,Udyr,4
+NEXO,Vayne,4
+NEXO,Volibear,4
+NEXO,Amumu,3
+NEXO,Annie,3
+NEXO,Dr. Mundo,3
+NEXO,Karma,3
+NEXO,Kindred,3
+NEXO,Lissandra,3
+NEXO,Lux,3
+NEXO,Nami,3
+NEXO,Nidalee,3
+NEXO,Ryze,3
+NEXO,Taric,3
+NEXO,Urgot,3
+NEXO,Zoe,3
+NEXO,Anivia,2
+NEXO,Bel'Veth,2
+NEXO,Blitzcrank,2
+NEXO,Brand,2
+NEXO,Draven,2
+NEXO,Irelia,2
+NEXO,Malzahar,2
+NEXO,Rek'Sai,2
+NEXO,Seraphine,2
+NEXO,Swain,2
+NEXO,Thresh,2
+NEXO,Vel'Koz,2
+NEXO,Vladimir,2
+NEXO,Warwick,2
+NEXO,Xerath,2
+NEXO,Zed,2
+NEXO,Zilean,2
+NEXO,Caitlyn,1
+NEXO,Darius,1
+NEXO,Diana,1
+NEXO,Ekko,1
+NEXO,Gangplank,1
+NEXO,Garen,1
+NEXO,Janna,1
+NEXO,Karthus,1
+NEXO,Kassadin,1
+NEXO,Kennen,1
+NEXO,Lee Sin,1
+NEXO,Mordekaiser,1
+NEXO,Morgana,1
+NEXO,Nilah,1
+NEXO,Qiyana,1
+NEXO,Quinn,1
+NEXO,Rengar,1
+NEXO,Samira,1
+NEXO,Shaco,1
+NEXO,Teemo,1
+NEXO,Vex,1
+NEXO,Ziggs,1
+NLC,Rell,71
+NLC,Ezreal,56
+NLC,Vi,55
+NLC,Varus,53
+NLC,Nautilus,45
+NLC,Rakan,45
+NLC,Corki,44
+NLC,Wukong,44
+NLC,Alistar,43
+NLC,Xin Zhao,40
+NLC,Azir,39
+NLC,Leona,38
+NLC,K'Sante,37
+NLC,Kai'Sa,37
+NLC,Maokai,36
+NLC,Orianna,36
+NLC,Taliyah,36
+NLC,Braum,33
+NLC,Jhin,33
+NLC,Sion,33
+NLC,Poppy,32
+NLC,Rumble,32
+NLC,Jarvan IV,31
+NLC,Aurora,30
+NLC,Syndra,30
+NLC,Ambessa,29
+NLC,Pantheon,29
+NLC,Ahri,28
+NLC,Viktor,27
+NLC,Gnar,26
+NLC,Jinx,25
+NLC,Renekton,25
+NLC,Sejuani,25
+NLC,Galio,23
+NLC,Viego,23
+NLC,Jayce,22
+NLC,Hwei,21
+NLC,Jax,20
+NLC,Skarner,20
+NLC,Cho'Gath,19
+NLC,Gwen,19
+NLC,Miss Fortune,19
+NLC,Nocturne,18
+NLC,Xayah,18
+NLC,Yone,18
+NLC,Trundle,16
+NLC,Aatrox,15
+NLC,Ashe,14
+NLC,Gragas,14
+NLC,Neeko,14
+NLC,Ryze,14
+NLC,Naafiri,13
+NLC,Ornn,13
+NLC,Sivir,13
+NLC,Volibear,13
+NLC,Xerath,13
+NLC,Caitlyn,12
+NLC,Lulu,12
+NLC,Tristana,12
+NLC,Bard,11
+NLC,Zeri,11
+NLC,Janna,10
+NLC,Renata Glasc,10
+NLC,Sylas,10
+NLC,Yorick,10
+NLC,Akali,9
+NLC,Ivern,9
+NLC,Karma,9
+NLC,Lucian,9
+NLC,Mel,9
+NLC,Nami,9
+NLC,Kalista,8
+NLC,Smolder,8
+NLC,Ziggs,8
+NLC,Zyra,8
+NLC,Amumu,7
+NLC,Swain,7
+NLC,Thresh,7
+NLC,Aphelios,6
+NLC,Camille,6
+NLC,Cassiopeia,6
+NLC,Kog'Maw,6
+NLC,Malphite,6
+NLC,Milio,6
+NLC,Annie,5
+NLC,Draven,5
+NLC,Fiora,5
+NLC,Gangplank,5
+NLC,Olaf,5
+NLC,Vel'Koz,5
+NLC,Yunara,5
+NLC,Dr. Mundo,4
+NLC,Lillia,4
+NLC,Senna,4
+NLC,Shen,4
+NLC,Twitch,4
+NLC,Blitzcrank,3
+NLC,Garen,3
+NLC,Kennen,3
+NLC,Zac,3
+NLC,Zed,3
+NLC,Zilean,3
+NLC,Anivia,2
+NLC,Elise,2
+NLC,Fiddlesticks,2
+NLC,Irelia,2
+NLC,Kayn,2
+NLC,Kled,2
+NLC,Lee Sin,2
+NLC,Mordekaiser,2
+NLC,Quinn,2
+NLC,Seraphine,2
+NLC,Sona,2
+NLC,Tahm Kench,2
+NLC,Taric,2
+NLC,Yasuo,2
+NLC,Aurelion Sol,1
+NLC,Brand,1
+NLC,Darius,1
+NLC,Diana,1
+NLC,Ekko,1
+NLC,Karthus,1
+NLC,Kha'Zix,1
+NLC,Kindred,1
+NLC,LeBlanc,1
+NLC,Lissandra,1
+NLC,Lux,1
+NLC,Nasus,1
+NLC,Nidalee,1
+NLC,Nunu & Willump,1
+NLC,Pyke,1
+NLC,Rek'Sai,1
+NLC,Riven,1
+NLC,Shaco,1
+NLC,Teemo,1
+NLC,Urgot,1
+NLC,Vayne,1
+NLC,Veigar,1
+NLC,Zoe,1
+PCS,Ezreal,85
+PCS,Xin Zhao,83
+PCS,Jayce,74
+PCS,Nautilus,72
+PCS,Varus,69
+PCS,Ambessa,66
+PCS,Rumble,65
+PCS,Alistar,62
+PCS,Vi,60
+PCS,Aurora,59
+PCS,Corki,58
+PCS,Jax,58
+PCS,Taliyah,58
+PCS,Kai'Sa,57
+PCS,Ahri,56
+PCS,Rell,56
+PCS,K'Sante,55
+PCS,Leona,49
+PCS,Jhin,48
+PCS,Gwen,47
+PCS,Sejuani,47
+PCS,Rakan,46
+PCS,Azir,45
+PCS,Miss Fortune,45
+PCS,Pantheon,45
+PCS,Poppy,45
+PCS,Neeko,44
+PCS,Viktor,39
+PCS,Ashe,38
+PCS,Viego,38
+PCS,Skarner,36
+PCS,Yone,36
+PCS,Wukong,35
+PCS,Braum,32
+PCS,Sion,32
+PCS,Ryze,31
+PCS,Galio,30
+PCS,Maokai,30
+PCS,Annie,27
+PCS,Orianna,27
+PCS,Kalista,26
+PCS,Lucian,26
+PCS,Lee Sin,25
+PCS,Elise,24
+PCS,Akali,21
+PCS,Karma,20
+PCS,Sylas,20
+PCS,Aatrox,19
+PCS,Nidalee,19
+PCS,Tristana,19
+PCS,Lillia,18
+PCS,Nocturne,18
+PCS,Xayah,18
+PCS,Gnar,17
+PCS,Naafiri,16
+PCS,Renata Glasc,16
+PCS,Senna,16
+PCS,Yorick,16
+PCS,Blitzcrank,14
+PCS,Renekton,14
+PCS,Camille,13
+PCS,Gragas,12
+PCS,Hwei,12
+PCS,Irelia,11
+PCS,Jarvan IV,11
+PCS,Bard,10
+PCS,Fiora,10
+PCS,Zyra,10
+PCS,Lulu,9
+PCS,Sivir,9
+PCS,Caitlyn,8
+PCS,Draven,8
+PCS,Pyke,8
+PCS,Trundle,8
+PCS,Zeri,8
+PCS,LeBlanc,7
+PCS,Smolder,7
+PCS,Udyr,7
+PCS,Zed,7
+PCS,Ornn,6
+PCS,Syndra,6
+PCS,Vladimir,6
+PCS,Yasuo,6
+PCS,Jinx,5
+PCS,Nami,5
+PCS,Shen,5
+PCS,Taric,5
+PCS,Kindred,4
+PCS,Mel,4
+PCS,Milio,4
+PCS,Olaf,4
+PCS,Seraphine,4
+PCS,Ziggs,4
+PCS,Zoe,4
+PCS,Aurelion Sol,3
+PCS,Cassiopeia,3
+PCS,Darius,3
+PCS,Swain,3
+PCS,Thresh,3
+PCS,Volibear,3
+PCS,Yunara,3
+PCS,Brand,2
+PCS,Gangplank,2
+PCS,Graves,2
+PCS,Karthus,2
+PCS,Mordekaiser,2
+PCS,Nunu & Willump,2
+PCS,Soraka,2
+PCS,Tahm Kench,2
+PCS,Tryndamere,2
+PCS,Twisted Fate,2
+PCS,Vex,2
+PCS,Xerath,2
+PCS,Amumu,1
+PCS,Aphelios,1
+PCS,Cho'Gath,1
+PCS,Dr. Mundo,1
+PCS,Kennen,1
+PCS,Lux,1
+PCS,Morgana,1
+PCS,Qiyana,1
+PCS,Twitch,1
+PCS,Urgot,1
+PCS,Yuumi,1
+PRM,Rell,84
+PRM,Alistar,72
+PRM,Corki,72
+PRM,Ezreal,71
+PRM,Varus,68
+PRM,Azir,64
+PRM,Xin Zhao,62
+PRM,Leona,61
+PRM,Ambessa,60
+PRM,Viktor,60
+PRM,Nautilus,59
+PRM,Rakan,57
+PRM,Sion,54
+PRM,Taliyah,53
+PRM,Vi,51
+PRM,Ahri,49
+PRM,Kai'Sa,49
+PRM,K'Sante,48
+PRM,Orianna,48
+PRM,Wukong,47
+PRM,Jhin,46
+PRM,Miss Fortune,46
+PRM,Braum,45
+PRM,Rumble,43
+PRM,Gnar,42
+PRM,Jarvan IV,42
+PRM,Maokai,42
+PRM,Tristana,42
+PRM,Sejuani,41
+PRM,Yone,40
+PRM,Jayce,39
+PRM,Poppy,38
+PRM,Gwen,35
+PRM,Pantheon,35
+PRM,Viego,30
+PRM,Naafiri,29
+PRM,Bard,28
+PRM,Ornn,28
+PRM,Renekton,28
+PRM,Skarner,28
+PRM,Galio,27
+PRM,Aurora,26
+PRM,Nocturne,26
+PRM,Xayah,26
+PRM,Sivir,25
+PRM,Hwei,24
+PRM,Syndra,24
+PRM,Akali,22
+PRM,Jax,22
+PRM,Ryze,22
+PRM,Sylas,22
+PRM,Aatrox,21
+PRM,Neeko,21
+PRM,Trundle,20
+PRM,Lucian,19
+PRM,Ashe,18
+PRM,Renata Glasc,18
+PRM,Cassiopeia,17
+PRM,Dr. Mundo,17
+PRM,Lillia,17
+PRM,Pyke,17
+PRM,Caitlyn,16
+PRM,Jinx,16
+PRM,Lulu,16
+PRM,Shen,16
+PRM,Yorick,16
+PRM,Kalista,15
+PRM,Ivern,14
+PRM,Mel,14
+PRM,Gragas,13
+PRM,Senna,13
+PRM,Zeri,13
+PRM,Zyra,13
+PRM,Elise,12
+PRM,Annie,11
+PRM,Kindred,11
+PRM,Malphite,11
+PRM,Cho'Gath,10
+PRM,Smolder,10
+PRM,Bel'Veth,9
+PRM,Fiddlesticks,8
+PRM,Karma,8
+PRM,Yunara,8
+PRM,Aphelios,7
+PRM,Fiora,7
+PRM,Kennen,7
+PRM,LeBlanc,7
+PRM,Blitzcrank,6
+PRM,Camille,6
+PRM,Sett,6
+PRM,Milio,5
+PRM,Seraphine,5
+PRM,Ziggs,5
+PRM,Nami,4
+PRM,Taric,4
+PRM,Volibear,4
+PRM,Amumu,3
+PRM,Kayle,3
+PRM,Kha'Zix,3
+PRM,Kog'Maw,3
+PRM,Nilah,3
+PRM,Olaf,3
+PRM,Shyvana,3
+PRM,Swain,3
+PRM,Thresh,3
+PRM,Vladimir,3
+PRM,Zed,3
+PRM,Aurelion Sol,2
+PRM,Nidalee,2
+PRM,Nunu & Willump,2
+PRM,Sona,2
+PRM,Soraka,2
+PRM,Tahm Kench,2
+PRM,Twisted Fate,2
+PRM,Vex,2
+PRM,Zilean,2
+PRM,Brand,1
+PRM,Darius,1
+PRM,Ekko,1
+PRM,Gangplank,1
+PRM,Graves,1
+PRM,Janna,1
+PRM,Kassadin,1
+PRM,Katarina,1
+PRM,Kayn,1
+PRM,Lee Sin,1
+PRM,Mordekaiser,1
+PRM,Quinn,1
+PRM,Urgot,1
+PRM,Vayne,1
+PRM,Warwick,1
+PRM,Yasuo,1
+PRMP,Rell,24
+PRMP,Rakan,21
+PRMP,Varus,20
+PRMP,Corki,19
+PRMP,Jhin,19
+PRMP,Xin Zhao,19
+PRMP,Ambessa,17
+PRMP,Vi,17
+PRMP,Ezreal,16
+PRMP,Nautilus,14
+PRMP,Rumble,13
+PRMP,Taliyah,12
+PRMP,Tristana,12
+PRMP,Azir,11
+PRMP,Jax,11
+PRMP,Kai'Sa,11
+PRMP,Sion,11
+PRMP,Ahri,10
+PRMP,Alistar,10
+PRMP,Gwen,10
+PRMP,K'Sante,10
+PRMP,Leona,10
+PRMP,Orianna,10
+PRMP,Poppy,10
+PRMP,Syndra,10
+PRMP,Gnar,9
+PRMP,Jarvan IV,9
+PRMP,Karma,9
+PRMP,Pantheon,9
+PRMP,Lillia,8
+PRMP,Viktor,8
+PRMP,Maokai,7
+PRMP,Miss Fortune,7
+PRMP,Naafiri,7
+PRMP,Neeko,7
+PRMP,Yone,7
+PRMP,Akali,6
+PRMP,Aurora,6
+PRMP,Bard,6
+PRMP,Cho'Gath,6
+PRMP,Hwei,6
+PRMP,Jayce,6
+PRMP,Ryze,6
+PRMP,Skarner,6
+PRMP,Viego,6
+PRMP,Annie,5
+PRMP,Ashe,5
+PRMP,Caitlyn,5
+PRMP,Dr. Mundo,5
+PRMP,Lucian,5
+PRMP,Ornn,5
+PRMP,Pyke,5
+PRMP,Sejuani,5
+PRMP,Sylas,5
+PRMP,Volibear,5
+PRMP,Xayah,5
+PRMP,Braum,4
+PRMP,Gragas,4
+PRMP,Ivern,4
+PRMP,Kalista,4
+PRMP,Mel,4
+PRMP,Renata Glasc,4
+PRMP,Renekton,4
+PRMP,Sivir,4
+PRMP,Wukong,4
+PRMP,Yorick,4
+PRMP,Aatrox,3
+PRMP,Elise,3
+PRMP,Fiddlesticks,3
+PRMP,Galio,3
+PRMP,Nami,3
+PRMP,Senna,3
+PRMP,Shen,3
+PRMP,Trundle,3
+PRMP,Zyra,3
+PRMP,Anivia,2
+PRMP,Camille,2
+PRMP,Darius,2
+PRMP,Draven,2
+PRMP,Fiora,2
+PRMP,Kennen,2
+PRMP,Kha'Zix,2
+PRMP,LeBlanc,2
+PRMP,Lulu,2
+PRMP,Malphite,2
+PRMP,Milio,2
+PRMP,Morgana,2
+PRMP,Nidalee,2
+PRMP,Nocturne,2
+PRMP,Rengar,2
+PRMP,Seraphine,2
+PRMP,Sett,2
+PRMP,Smolder,2
+PRMP,Soraka,2
+PRMP,Swain,2
+PRMP,Taric,2
+PRMP,Urgot,2
+PRMP,Vayne,2
+PRMP,Vex,2
+PRMP,Yunara,2
+PRMP,Zeri,2
+PRMP,Ziggs,2
+PRMP,Akshan,1
+PRMP,Amumu,1
+PRMP,Aphelios,1
+PRMP,Aurelion Sol,1
+PRMP,Bel'Veth,1
+PRMP,Blitzcrank,1
+PRMP,Gangplank,1
+PRMP,Heimerdinger,1
+PRMP,Illaoi,1
+PRMP,Jinx,1
+PRMP,Kassadin,1
+PRMP,Kindred,1
+PRMP,Lee Sin,1
+PRMP,Lissandra,1
+PRMP,Lux,1
+PRMP,Nilah,1
+PRMP,Olaf,1
+PRMP,Quinn,1
+PRMP,Shaco,1
+PRMP,Shyvana,1
+PRMP,Tahm Kench,1
+PRMP,Talon,1
+PRMP,Teemo,1
+PRMP,Thresh,1
+PRMP,Vladimir,1
+PRMP,Warwick,1
+RL,Rell,67
+RL,Corki,58
+RL,Ezreal,57
+RL,Viktor,57
+RL,Leona,56
+RL,Nautilus,50
+RL,Varus,49
+RL,Rakan,46
+RL,Ambessa,45
+RL,Miss Fortune,42
+RL,Wukong,40
+RL,Alistar,39
+RL,Ahri,37
+RL,K'Sante,37
+RL,Vi,37
+RL,Xin Zhao,37
+RL,Maokai,36
+RL,Taliyah,35
+RL,Pantheon,34
+RL,Kai'Sa,33
+RL,Renekton,33
+RL,Tristana,33
+RL,Braum,31
+RL,Sejuani,31
+RL,Jayce,30
+RL,Rumble,30
+RL,Jhin,29
+RL,Orianna,29
+RL,Azir,28
+RL,Hwei,28
+RL,Jax,28
+RL,Gnar,27
+RL,Skarner,26
+RL,Yone,25
+RL,Sion,22
+RL,Syndra,22
+RL,Aatrox,21
+RL,Ivern,21
+RL,Poppy,20
+RL,Akali,19
+RL,Jinx,19
+RL,Trundle,19
+RL,Gwen,18
+RL,Ornn,18
+RL,Sylas,18
+RL,Karma,17
+RL,Viego,17
+RL,Ashe,16
+RL,Lillia,16
+RL,Volibear,16
+RL,Aurora,15
+RL,Naafiri,15
+RL,Thresh,15
+RL,Camille,14
+RL,Galio,14
+RL,Jarvan IV,14
+RL,Sivir,14
+RL,Ziggs,14
+RL,Caitlyn,12
+RL,Lulu,12
+RL,Zeri,12
+RL,Mel,11
+RL,Xayah,11
+RL,Zyra,11
+RL,Amumu,10
+RL,Bard,10
+RL,Lucian,9
+RL,Neeko,8
+RL,Nocturne,8
+RL,Renata Glasc,8
+RL,Blitzcrank,7
+RL,Cho'Gath,7
+RL,Gragas,7
+RL,Kalista,7
+RL,Nidalee,7
+RL,Ryze,7
+RL,Smolder,7
+RL,Malphite,6
+RL,Olaf,6
+RL,Xerath,6
+RL,Anivia,5
+RL,Annie,5
+RL,Aphelios,5
+RL,Aurelion Sol,5
+RL,Elise,5
+RL,Kennen,5
+RL,Lee Sin,5
+RL,Vel'Koz,5
+RL,Yunara,5
+RL,Dr. Mundo,4
+RL,Fiddlesticks,4
+RL,Irelia,4
+RL,Kha'Zix,4
+RL,Kindred,4
+RL,Warwick,4
+RL,Yasuo,4
+RL,Darius,3
+RL,Draven,3
+RL,Fiora,3
+RL,Gangplank,3
+RL,Garen,3
+RL,Hecarim,3
+RL,Senna,3
+RL,Shen,3
+RL,Shyvana,3
+RL,Vladimir,3
+RL,Yuumi,3
+RL,Zac,3
+RL,Zed,3
+RL,Zoe,3
+RL,Bel'Veth,2
+RL,Cassiopeia,2
+RL,Diana,2
+RL,Illaoi,2
+RL,LeBlanc,2
+RL,Lux,2
+RL,Milio,2
+RL,Nami,2
+RL,Pyke,2
+RL,Seraphine,2
+RL,Swain,2
+RL,Twitch,2
+RL,Vayne,2
+RL,Yorick,2
+RL,Zilean,2
+RL,Brand,1
+RL,Kassadin,1
+RL,Kog'Maw,1
+RL,Lissandra,1
+RL,Morgana,1
+RL,Nasus,1
+RL,Rek'Sai,1
+RL,Soraka,1
+RL,Taric,1
+RL,Twisted Fate,1
+RL,Udyr,1
+RL,Vex,1
+ROL,Rell,55
+ROL,Varus,45
+ROL,Ezreal,44
+ROL,Corki,40
+ROL,Ambessa,39
+ROL,Viktor,38
+ROL,Wukong,38
+ROL,K'Sante,37
+ROL,Leona,36
+ROL,Maokai,36
+ROL,Alistar,35
+ROL,Xin Zhao,34
+ROL,Nautilus,32
+ROL,Orianna,32
+ROL,Braum,31
+ROL,Kai'Sa,31
+ROL,Sejuani,30
+ROL,Jhin,29
+ROL,Aurora,28
+ROL,Syndra,27
+ROL,Taliyah,27
+ROL,Ahri,26
+ROL,Jax,26
+ROL,Miss Fortune,26
+ROL,Poppy,26
+ROL,Azir,25
+ROL,Renekton,25
+ROL,Jayce,24
+ROL,Pantheon,24
+ROL,Rakan,24
+ROL,Tristana,24
+ROL,Sion,23
+ROL,Sivir,23
+ROL,Ornn,22
+ROL,Yone,22
+ROL,Hwei,21
+ROL,Vi,21
+ROL,Jarvan IV,19
+ROL,Rumble,19
+ROL,Skarner,18
+ROL,Trundle,18
+ROL,Ryze,16
+ROL,Gwen,15
+ROL,Viego,15
+ROL,Xayah,15
+ROL,Bard,14
+ROL,Galio,13
+ROL,Gnar,13
+ROL,Ziggs,13
+ROL,Aatrox,12
+ROL,Naafiri,12
+ROL,Neeko,12
+ROL,Nocturne,12
+ROL,Volibear,12
+ROL,Ashe,11
+ROL,Karma,11
+ROL,Zyra,11
+ROL,Gragas,10
+ROL,Zac,10
+ROL,Dr. Mundo,9
+ROL,Mel,9
+ROL,Sett,9
+ROL,Shen,9
+ROL,Darius,8
+ROL,Jinx,8
+ROL,Lulu,8
+ROL,Smolder,8
+ROL,Yorick,8
+ROL,Blitzcrank,7
+ROL,Nidalee,7
+ROL,Draven,6
+ROL,Lillia,6
+ROL,Lucian,6
+ROL,Milio,6
+ROL,Renata Glasc,6
+ROL,Sylas,6
+ROL,Taric,6
+ROL,Thresh,6
+ROL,Akali,5
+ROL,Annie,5
+ROL,Camille,5
+ROL,Cho'Gath,5
+ROL,Garen,5
+ROL,Ivern,5
+ROL,Lee Sin,5
+ROL,Nami,5
+ROL,Olaf,5
+ROL,Senna,5
+ROL,Seraphine,5
+ROL,Yunara,5
+ROL,Zeri,5
+ROL,Aphelios,4
+ROL,Fiora,4
+ROL,Kalista,4
+ROL,Kayle,4
+ROL,Kog'Maw,4
+ROL,Lissandra,4
+ROL,Swain,4
+ROL,Tahm Kench,4
+ROL,Diana,3
+ROL,Mordekaiser,3
+ROL,Pyke,3
+ROL,Rek'Sai,3
+ROL,Veigar,3
+ROL,Zilean,3
+ROL,Bel'Veth,2
+ROL,Kassadin,2
+ROL,Lux,2
+ROL,Malphite,2
+ROL,Rengar,2
+ROL,Tryndamere,2
+ROL,Twitch,2
+ROL,Urgot,2
+ROL,Amumu,1
+ROL,Brand,1
+ROL,Caitlyn,1
+ROL,Cassiopeia,1
+ROL,Ekko,1
+ROL,Elise,1
+ROL,Fiddlesticks,1
+ROL,Heimerdinger,1
+ROL,Irelia,1
+ROL,Janna,1
+ROL,Kennen,1
+ROL,Kindred,1
+ROL,LeBlanc,1
+ROL,Morgana,1
+ROL,Sona,1
+ROL,Soraka,1
+ROL,Udyr,1
+ROL,Vayne,1
+ROL,Vex,1
+ROL,Vladimir,1
+ROL,Xerath,1
+ROL,Yasuo,1
+ROL,Yuumi,1
+ROL,Zed,1
+TCL,Rell,87
+TCL,Ambessa,70
+TCL,Varus,69
+TCL,Ezreal,67
+TCL,Corki,63
+TCL,Vi,58
+TCL,Alistar,57
+TCL,Taliyah,56
+TCL,Jayce,54
+TCL,Rumble,54
+TCL,Azir,53
+TCL,Leona,53
+TCL,Xin Zhao,50
+TCL,Sejuani,45
+TCL,Nautilus,43
+TCL,Rakan,39
+TCL,Yone,36
+TCL,Jhin,35
+TCL,K'Sante,35
+TCL,Orianna,35
+TCL,Miss Fortune,34
+TCL,Gwen,33
+TCL,Kai'Sa,32
+TCL,Maokai,31
+TCL,Aurora,30
+TCL,Ahri,29
+TCL,Pantheon,29
+TCL,Wukong,27
+TCL,Braum,26
+TCL,Galio,25
+TCL,Viego,24
+TCL,Kalista,23
+TCL,Viktor,20
+TCL,Xayah,20
+TCL,Renata Glasc,19
+TCL,Nocturne,18
+TCL,Poppy,18
+TCL,Aatrox,17
+TCL,Naafiri,17
+TCL,Renekton,17
+TCL,Sion,17
+TCL,Zyra,17
+TCL,Ryze,16
+TCL,Gnar,15
+TCL,Trundle,15
+TCL,Akali,14
+TCL,Neeko,14
+TCL,Sylas,14
+TCL,Ashe,13
+TCL,Hwei,13
+TCL,Bard,11
+TCL,Lillia,11
+TCL,Ornn,11
+TCL,Sivir,11
+TCL,Jax,10
+TCL,Lucian,10
+TCL,Nidalee,10
+TCL,Annie,9
+TCL,Jinx,8
+TCL,Lee Sin,8
+TCL,Yorick,8
+TCL,Zeri,7
+TCL,Blitzcrank,6
+TCL,Darius,6
+TCL,Jarvan IV,6
+TCL,Karma,6
+TCL,Lulu,6
+TCL,Skarner,6
+TCL,Tristana,6
+TCL,Kennen,5
+TCL,Shen,5
+TCL,Syndra,5
+TCL,Zed,5
+TCL,Caitlyn,4
+TCL,Cho'Gath,4
+TCL,Gragas,4
+TCL,LeBlanc,4
+TCL,Senna,4
+TCL,Twisted Fate,4
+TCL,Warwick,4
+TCL,Yunara,4
+TCL,Nami,3
+TCL,Olaf,3
+TCL,Thresh,3
+TCL,Aphelios,2
+TCL,Camille,2
+TCL,Dr. Mundo,2
+TCL,Elise,2
+TCL,Fiora,2
+TCL,Irelia,2
+TCL,Ivern,2
+TCL,Karthus,2
+TCL,Kog'Maw,2
+TCL,Mel,2
+TCL,Nilah,2
+TCL,Seraphine,2
+TCL,Smolder,2
+TCL,Volibear,2
+TCL,Ziggs,2
+TCL,Aurelion Sol,1
+TCL,Cassiopeia,1
+TCL,Diana,1
+TCL,Gangplank,1
+TCL,Janna,1
+TCL,Kha'Zix,1
+TCL,Milio,1
+TCL,Pyke,1
+TCL,Riven,1
+TCL,Shaco,1
+TCL,Taric,1
+TCL,Vayne,1
+TCL,Vex,1
+TCL,Vladimir,1
+TCL,Yasuo,1
+TCL,Zac,1
+TCL,Zoe,1
+VCS,Varus,40
+VCS,Rell,39
+VCS,Rumble,38
+VCS,Ahri,37
+VCS,Nautilus,36
+VCS,Jayce,35
+VCS,Ezreal,34
+VCS,Ambessa,33
+VCS,Corki,32
+VCS,Xin Zhao,32
+VCS,Alistar,31
+VCS,Kai'Sa,29
+VCS,Vi,29
+VCS,K'Sante,27
+VCS,Leona,27
+VCS,Jhin,26
+VCS,Ryze,26
+VCS,Braum,25
+VCS,Taliyah,25
+VCS,Viego,25
+VCS,Azir,23
+VCS,Wukong,23
+VCS,Nocturne,22
+VCS,Pantheon,22
+VCS,Rakan,22
+VCS,Sion,22
+VCS,Galio,21
+VCS,Gwen,21
+VCS,Lucian,21
+VCS,Poppy,21
+VCS,Ashe,19
+VCS,Aurora,19
+VCS,Skarner,19
+VCS,Renata Glasc,18
+VCS,Renekton,18
+VCS,Viktor,18
+VCS,Xayah,18
+VCS,Neeko,17
+VCS,Sylas,17
+VCS,Miss Fortune,16
+VCS,Sejuani,15
+VCS,Akali,14
+VCS,Kalista,14
+VCS,Maokai,14
+VCS,Aatrox,13
+VCS,Jax,12
+VCS,Zyra,12
+VCS,Jinx,11
+VCS,Karma,11
+VCS,Naafiri,11
+VCS,Yone,11
+VCS,Lee Sin,10
+VCS,Nidalee,10
+VCS,Orianna,10
+VCS,Senna,10
+VCS,Tristana,10
+VCS,LeBlanc,9
+VCS,Pyke,9
+VCS,Syndra,9
+VCS,Trundle,9
+VCS,Caitlyn,8
+VCS,Lillia,8
+VCS,Yorick,8
+VCS,Elise,7
+VCS,Gnar,7
+VCS,Kindred,7
+VCS,Hwei,6
+VCS,Ornn,6
+VCS,Sett,6
+VCS,Sivir,6
+VCS,Annie,5
+VCS,Draven,5
+VCS,Nami,5
+VCS,Udyr,5
+VCS,Camille,4
+VCS,Cho'Gath,4
+VCS,Ivern,4
+VCS,Lulu,4
+VCS,Olaf,4
+VCS,Shen,4
+VCS,Zeri,4
+VCS,Blitzcrank,3
+VCS,Gragas,3
+VCS,Graves,3
+VCS,Jarvan IV,3
+VCS,Vladimir,3
+VCS,Bard,2
+VCS,Darius,2
+VCS,Kha'Zix,2
+VCS,Lissandra,2
+VCS,Seraphine,2
+VCS,Smolder,2
+VCS,Tahm Kench,2
+VCS,Ziggs,2
+VCS,Aphelios,1
+VCS,Aurelion Sol,1
+VCS,Dr. Mundo,1
+VCS,Ekko,1
+VCS,Gangplank,1
+VCS,Kennen,1
+VCS,Kog'Maw,1
+VCS,Mel,1
+VCS,Milio,1
+VCS,Soraka,1
+VCS,Thresh,1
+VCS,Volibear,1
+VCS,Yasuo,1
+VCS,Zac,1
+VCS,Zoe,1

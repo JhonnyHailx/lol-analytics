@@ -1,0 +1,172 @@
+champion,title,tags,attackrange,difficulty,attack,defense,magic,hp_base,ad_base,ap_base,movespeed,role
+Aatrox,the Darkin Blade,Fighter,175,4,8,4,3,650,60,32,345,Fighter
+Ahri,the Nine-Tailed Fox,"Mage,Assassin",550,5,3,4,8,590,53,30,330,"Mage,Assassin"
+Akali,the Rogue Assassin,Assassin,125,7,5,3,8,600,62,37,345,Assassin
+Akshan,the Rogue Sentinel,"Marksman,Assassin",500,0,0,0,0,630,52,30,330,"Marksman,Assassin"
+Alistar,the Minotaur,"Tank,Support",125,7,6,9,5,685,62,32,330,"Tank,Support"
+Ambessa,Matriarch of War,"Fighter,Assassin",125,10,9,2,0,630,63,32,335,"Fighter,Assassin"
+Amumu,the Sad Mummy,"Tank,Support",125,3,2,6,8,685,57,32,335,"Tank,Support"
+Anivia,the Cryophoenix,Mage,600,10,1,4,10,550,51,30,325,Mage
+Annie,the Dark Child,"Mage,Support",625,6,2,3,10,560,50,30,335,"Mage,Support"
+Aphelios,the Weapon of the Faithful,Marksman,550,10,6,2,1,600,55,30,325,Marksman
+Ashe,the Frost Archer,"Marksman,Support",600,4,7,3,2,610,59,30,325,"Marksman,Support"
+AurelionSol,The Star Forger,Mage,550,7,2,3,8,600,58,30,335,Mage
+Aurora,the Witch Between Worlds,"Mage,Assassin",550,5,3,4,8,607,53,32,335,"Mage,Assassin"
+Azir,the Emperor of the Sands,"Mage,Marksman",525,9,6,3,8,575,56,30,330,"Mage,Marksman"
+Bard,the Wandering Caretaker,"Support,Mage",500,9,4,4,5,630,52,30,335,"Support,Mage"
+Belveth,the Empress of the Void,Fighter,150,10,4,2,7,610,60,32,340,Fighter
+Blitzcrank,the Great Steam Golem,"Tank,Support",125,4,4,8,5,600,62,32,325,"Tank,Support"
+Brand,the Burning Vengeance,"Mage,Support",550,4,2,2,9,570,57,30,340,"Mage,Support"
+Braum,the Heart of the Freljord,"Tank,Support",125,3,3,9,4,610,55,32,335,"Tank,Support"
+Briar,the Restrained Hunger,"Fighter,Assassin",125,3,9,5,3,625,60,32,340,"Fighter,Assassin"
+Caitlyn,the Sheriff of Piltover,Marksman,650,6,8,2,2,580,60,30,325,Marksman
+Camille,the Steel Shadow,"Fighter,Assassin",125,4,8,6,3,650,68,32,340,"Fighter,Assassin"
+Cassiopeia,the Serpent's Embrace,Mage,550,10,2,3,9,630,53,32,328,Mage
+Chogath,the Terror of the Void,"Tank,Mage",125,5,3,7,7,644,69,32,345,"Tank,Mage"
+Corki,the Daring Bombardier,"Marksman,Mage",550,6,8,3,6,610,52,30,325,"Marksman,Mage"
+Darius,the Hand of Noxus,"Fighter,Tank",175,2,9,5,1,652,64,32,340,"Fighter,Tank"
+Diana,Scorn of the Moon,"Fighter,Assassin",150,4,7,6,8,640,57,32,345,"Fighter,Assassin"
+Draven,the Glorious Executioner,Marksman,550,8,9,3,1,675,62,30,330,Marksman
+DrMundo,the Madman of Zaun,"Tank,Fighter",125,5,5,7,6,640,61,29,345,"Tank,Fighter"
+Ekko,the Boy Who Shattered Time,"Assassin,Mage",125,8,5,3,7,655,58,32,340,"Assassin,Mage"
+Elise,the Spider Queen,"Assassin,Mage",550,9,6,5,7,620,55,30,330,"Assassin,Mage"
+Evelynn,Agony's Embrace,"Assassin,Mage",125,10,4,2,7,642,61,32,335,"Assassin,Mage"
+Ezreal,the Prodigal Explorer,"Marksman,Mage",550,7,7,2,6,600,60,30,325,"Marksman,Mage"
+Fiddlesticks,the Ancient Fear,"Mage,Support",480,9,2,3,9,650,55,30,335,"Mage,Support"
+Fiora,the Grand Duelist,"Fighter,Assassin",150,3,10,4,2,620,66,32,345,"Fighter,Assassin"
+Fizz,the Tidal Trickster,"Assassin,Fighter",175,6,6,4,7,640,58,32,335,"Assassin,Fighter"
+Galio,the Colossus,"Tank,Mage",150,5,1,10,6,600,59,32,340,"Tank,Mage"
+Gangplank,the Saltwater Scourge,Fighter,125,9,7,6,4,630,64,32,345,Fighter
+Garen,The Might of Demacia,"Fighter,Tank",175,5,7,7,1,690,69,32,340,"Fighter,Tank"
+Gnar,the Missing Link,"Fighter,Tank",175,8,6,5,5,540,60,30,335,"Fighter,Tank"
+Gragas,the Rabble Rouser,"Fighter,Mage",125,5,4,7,6,640,64,32,330,"Fighter,Mage"
+Graves,the Outlaw,Marksman,425,3,8,5,3,625,68,32,340,Marksman
+Gwen,The Hallowed Seamstress,Fighter,150,5,7,4,5,600,63,32,340,Fighter
+Hecarim,the Shadow of War,"Fighter,Tank",175,6,8,6,4,625,66,32,345,"Fighter,Tank"
+Heimerdinger,the Revered Inventor,"Mage,Support",550,8,2,6,8,558,56,30,340,"Mage,Support"
+Hwei,the Visionary,"Mage,Support",550,9,7,1,8,580,54,30,330,"Mage,Support"
+Illaoi,the Kraken Priestess,"Fighter,Tank",125,4,8,6,3,656,65,32,350,"Fighter,Tank"
+Irelia,the Blade Dancer,"Fighter,Assassin",200,5,7,4,5,630,65,30,335,"Fighter,Assassin"
+Ivern,the Green Father,"Support,Mage",475,7,3,5,7,630,50,30,330,"Support,Mage"
+Janna,the Storm's Fury,"Support,Mage",550,7,3,5,7,570,47,30,325,"Support,Mage"
+JarvanIV,the Exemplar of Demacia,"Fighter,Tank",175,5,6,8,3,640,64,32,340,"Fighter,Tank"
+Jax,Grandmaster at Arms,Fighter,125,5,7,5,7,665,68,32,350,Fighter
+Jayce,the Defender of Tomorrow,"Fighter,Marksman",125,7,8,4,3,590,59,30,335,"Fighter,Marksman"
+Jhin,the Virtuoso,"Marksman,Mage",550,6,10,2,6,655,59,30,330,"Marksman,Mage"
+Jinx,the Loose Cannon,Marksman,525,6,9,2,4,630,59,30,325,Marksman
+Kaisa,Daughter of the Void,"Marksman,Mage",525,6,8,5,3,640,59,30,335,"Marksman,Mage"
+Kalista,the Spear of Vengeance,Marksman,525,7,8,2,4,560,57,30,330,Marksman
+Karma,the Enlightened One,"Mage,Support",525,5,1,7,8,630,51,30,335,"Mage,Support"
+Karthus,the Deathsinger,Mage,450,7,2,2,10,620,46,30,335,Mage
+Kassadin,the Void Walker,"Assassin,Mage",150,8,3,5,8,646,59,30,335,"Assassin,Mage"
+Katarina,the Sinister Blade,"Assassin,Mage",125,8,4,3,9,672,58,32,335,"Assassin,Mage"
+Kayle,the Righteous,"Mage,Marksman",175,7,6,6,7,670,50,22,335,"Mage,Marksman"
+Kayn,the Shadow Reaper,"Fighter,Assassin",175,8,10,6,1,655,68,32,340,"Fighter,Assassin"
+Kennen,the Heart of the Tempest,Mage,550,4,6,4,7,580,48,30,335,Mage
+Khazix,the Voidreaver,Assassin,125,6,9,4,3,643,60,32,350,Assassin
+Kindred,The Eternal Hunters,Marksman,500,4,8,2,2,595,65,30,325,Marksman
+Kled,the Cantankerous Cavalier,Fighter,125,7,8,2,2,410,65,28,345,Fighter
+KogMaw,the Mouth of the Abyss,"Marksman,Mage",500,6,8,2,5,635,61,30,330,"Marksman,Mage"
+KSante,the Pride of Nazumah,"Tank,Fighter",150,9,8,8,7,625,64,30,330,"Tank,Fighter"
+Leblanc,the Deceiver,"Assassin,Mage",525,9,1,4,10,598,55,30,340,"Assassin,Mage"
+LeeSin,the Blind Monk,"Fighter,Assassin",125,6,8,5,3,645,66,32,345,"Fighter,Assassin"
+Leona,the Radiant Dawn,"Tank,Support",125,4,4,8,3,646,60,32,335,"Tank,Support"
+Lillia,the Bashful Bloom,"Fighter,Mage",325,8,0,2,10,605,61,32,330,"Fighter,Mage"
+Lissandra,the Ice Witch,Mage,550,6,2,5,8,620,55,30,325,Mage
+Lucian,the Purifier,"Marksman,Assassin",500,6,8,5,3,641,60,30,335,"Marksman,Assassin"
+Lulu,the Fae Sorceress,"Support,Mage",550,5,4,5,7,565,47,30,330,"Support,Mage"
+Lux,the Lady of Luminosity,"Mage,Support",550,5,2,4,9,580,54,30,330,"Mage,Support"
+Malphite,Shard of the Monolith,"Tank,Mage",125,2,5,9,7,665,62,28,335,"Tank,Mage"
+Malzahar,the Prophet of the Void,Mage,500,6,2,2,9,580,55,30,335,Mage
+Maokai,the Twisted Treant,"Tank,Support",125,3,3,8,6,665,64,32,335,"Tank,Support"
+MasterYi,the Wuju Bladesman,"Fighter,Assassin",175,4,10,4,2,669,65,32,355,"Fighter,Assassin"
+Mel,the Soul's Reflection,"Mage,Support",550,5,2,4,9,630,54,30,330,"Mage,Support"
+Milio,The Gentle Flame,"Support,Mage",525,5,2,4,8,560,48,30,330,"Support,Mage"
+MissFortune,the Bounty Hunter,"Marksman,Mage",550,1,8,2,5,640,53,30,325,"Marksman,Mage"
+MonkeyKing,the Monkey King,"Fighter,Tank",175,3,8,5,2,610,66,28,340,"Fighter,Tank"
+Mordekaiser,the Iron Revenant,"Fighter,Mage",175,4,4,6,7,645,61,32,335,"Fighter,Mage"
+Morgana,the Fallen,"Support,Mage",450,1,1,6,8,630,56,30,335,"Support,Mage"
+Naafiri,the Hound of a Hundred Bites,"Assassin,Fighter",125,2,9,5,0,610,55,32,340,"Assassin,Fighter"
+Nami,the Tidecaller,"Support,Mage",550,5,4,3,7,560,54,30,335,"Support,Mage"
+Nasus,the Curator of the Sands,"Fighter,Tank",125,6,7,5,6,631,67,32,350,"Fighter,Tank"
+Nautilus,the Titan of the Depths,"Tank,Support",175,6,4,6,6,646,61,32,325,"Tank,Support"
+Neeko,the Curious Chameleon,"Mage,Support",550,5,1,1,9,610,48,30,340,"Mage,Support"
+Nidalee,the Bestial Huntress,"Assassin,Mage",525,8,5,4,7,610,58,30,335,"Assassin,Mage"
+Nilah,the Joy Unbound,"Fighter,Assassin",225,10,8,4,4,570,60,32,340,"Fighter,Assassin"
+Nocturne,the Eternal Nightmare,"Fighter,Assassin",125,4,9,5,2,655,62,32,345,"Fighter,Assassin"
+Nunu,the Boy and His Yeti,"Tank,Mage",125,4,4,6,7,610,61,32,345,"Tank,Mage"
+Olaf,the Berserker,"Fighter,Tank",125,3,9,5,3,645,68,32,350,"Fighter,Tank"
+Orianna,the Lady of Clockwork,"Mage,Support",525,7,4,3,9,585,44,26,325,"Mage,Support"
+Ornn,The Fire below the Mountain,Tank,175,5,5,9,3,660,69,32,335,Tank
+Pantheon,the Unbreakable Spear,"Fighter,Assassin",175,4,9,4,3,650,64,28,345,"Fighter,Assassin"
+Poppy,Keeper of the Hammer,"Tank,Fighter",125,6,6,7,2,610,60,32,345,"Tank,Fighter"
+Pyke,the Bloodharbor Ripper,"Support,Assassin",150,7,9,3,1,670,62,32,330,"Support,Assassin"
+Qiyana,Empress of the Elements,Assassin,150,8,0,2,4,590,66,32,335,Assassin
+Quinn,Demacia's Wings,"Marksman,Assassin",525,5,9,4,2,565,59,30,330,"Marksman,Assassin"
+Rakan,The Charmer,Support,300,5,2,4,8,610,62,32,335,Support
+Rammus,the Armordillo,Tank,125,5,4,10,5,675,65,32,335,Tank
+RekSai,the Void Burrower,"Fighter,Tank",175,3,8,5,2,600,58,32,340,"Fighter,Tank"
+Rell,the Iron Maiden,"Tank,Support",175,0,0,0,0,620,55,28,315,"Tank,Support"
+Renata,the Chem-Baroness,"Support,Mage",550,8,2,6,9,545,49,30,330,"Support,Mage"
+Renekton,the Butcher of the Sands,"Fighter,Tank",125,3,8,5,2,660,69,28,345,"Fighter,Tank"
+Rengar,the Pridestalker,"Assassin,Fighter",125,8,7,4,2,590,68,32,345,"Assassin,Fighter"
+Riven,the Exile,"Fighter,Assassin",125,8,8,5,1,630,64,32,340,"Fighter,Assassin"
+Rumble,the Mechanized Menace,"Fighter,Mage",125,10,3,6,8,655,64,28,345,"Fighter,Mage"
+Ryze,the Rune Mage,Mage,550,7,2,2,10,645,58,32,340,Mage
+Samira,the Desert Rose,"Marksman,Assassin",500,6,8,5,3,630,57,30,335,"Marksman,Assassin"
+Sejuani,Fury of the North,Tank,150,4,5,7,6,630,66,32,340,Tank
+Senna,the Redeemer,"Support,Marksman",600,7,7,2,6,530,50,30,330,"Support,Marksman"
+Seraphine,the Starry-Eyed Songstress,"Support,Mage",525,0,0,0,0,570,50,30,330,"Support,Mage"
+Sett,the Boss,"Fighter,Tank",125,2,8,5,1,670,60,28,340,"Fighter,Tank"
+Shaco,the Demon Jester,Assassin,125,9,8,4,6,630,63,32,345,Assassin
+Shen,the Eye of Twilight,Tank,125,4,3,9,3,610,64,32,340,Tank
+Shyvana,the Half-Dragon,"Fighter,Mage",125,4,8,6,3,665,66,32,350,"Fighter,Mage"
+Singed,the Mad Chemist,"Tank,Mage",125,5,4,8,7,650,63,32,345,"Tank,Mage"
+Sion,The Undead Juggernaut,"Tank,Fighter",175,5,5,9,3,655,68,32,345,"Tank,Fighter"
+Sivir,the Battle Mistress,Marksman,500,4,9,3,1,600,60,30,335,Marksman
+Skarner,the Primordial Sovereign,"Tank,Fighter",150,5,7,8,5,630,63,32,335,"Tank,Fighter"
+Smolder,the Fiery Fledgling,"Marksman,Mage",550,6,8,2,5,575,60,30,330,"Marksman,Mage"
+Sona,Maven of the Strings,"Support,Mage",550,4,5,2,8,550,49,30,325,"Support,Mage"
+Soraka,the Starchild,"Support,Mage",550,3,2,5,7,605,50,30,325,"Support,Mage"
+Swain,the Noxian Grand General,"Mage,Support",525,8,2,6,9,595,58,31,330,"Mage,Support"
+Sylas,the Unshackled,"Mage,Assassin",175,5,3,4,8,600,61,32,340,"Mage,Assassin"
+Syndra,the Dark Sovereign,Mage,550,8,2,3,9,563,54,30,330,Mage
+TahmKench,The River King,"Tank,Support",175,5,3,9,6,640,56,32,335,"Tank,Support"
+Taliyah,the Stoneweaver,"Mage,Support",525,5,1,7,8,550,58,28,330,"Mage,Support"
+Talon,the Blade's Shadow,Assassin,125,7,9,3,1,658,68,36,335,Assassin
+Taric,the Shield of Valoran,"Support,Tank",150,3,4,8,5,645,55,28,340,"Support,Tank"
+Teemo,the Swift Scout,"Marksman,Mage",500,6,5,3,7,615,54,30,330,"Marksman,Mage"
+Thresh,the Chain Warden,"Support,Tank",450,7,5,6,6,620,56,30,330,"Support,Tank"
+Tristana,the Yordle Gunner,"Marksman,Assassin",550,4,9,3,5,640,60,28,325,"Marksman,Assassin"
+Trundle,the Troll King,"Fighter,Tank",175,5,7,6,2,650,68,32,350,"Fighter,Tank"
+Tryndamere,the Barbarian King,"Fighter,Assassin",175,5,10,5,2,696,66,32,345,"Fighter,Assassin"
+TwistedFate,the Card Master,"Mage,Marksman",525,9,6,2,6,604,52,30,330,"Mage,Marksman"
+Twitch,the Plague Rat,"Marksman,Assassin",550,6,9,2,3,630,59,30,330,"Marksman,Assassin"
+Udyr,the Spirit Walker,"Fighter,Tank",125,7,8,7,4,664,62,32,350,"Fighter,Tank"
+Urgot,the Dreadnought,"Fighter,Tank",350,8,8,5,3,655,63,32,330,"Fighter,Tank"
+Varus,the Arrow of Retribution,"Marksman,Mage",575,2,7,3,4,600,59,30,330,"Marksman,Mage"
+Vayne,the Night Hunter,"Marksman,Assassin",550,8,10,1,1,550,60,30,330,"Marksman,Assassin"
+Veigar,the Tiny Master of Evil,Mage,550,7,2,2,10,580,52,32,340,Mage
+Velkoz,the Eye of the Void,"Mage,Support",525,8,2,2,10,590,55,30,340,"Mage,Support"
+Vex,the Gloomist,Mage,550,0,0,0,0,590,54,28,335,Mage
+Vi,the Piltover Enforcer,"Fighter,Assassin",125,4,8,5,3,655,63,32,340,"Fighter,Assassin"
+Viego,The Ruined King,"Fighter,Assassin",200,5,6,4,2,630,57,32,345,"Fighter,Assassin"
+Viktor,the Herald of the Arcane,Mage,525,9,2,4,10,600,53,30,335,Mage
+Vladimir,the Crimson Reaper,"Mage,Fighter",450,7,2,6,8,607,55,30,330,"Mage,Fighter"
+Volibear,the Relentless Storm,"Fighter,Tank",150,3,7,7,4,650,60,32,340,"Fighter,Tank"
+Warwick,the Uncaged Wrath of Zaun,"Fighter,Tank",125,3,9,5,3,620,60,32,335,"Fighter,Tank"
+Xayah,the Rebel,Marksman,525,5,10,6,1,630,60,30,330,Marksman
+Xerath,the Magus Ascendant,"Mage,Support",525,8,1,3,10,596,55,30,340,"Mage,Support"
+XinZhao,the Seneschal of Demacia,"Fighter,Tank",175,2,8,6,3,640,63,32,345,"Fighter,Tank"
+Yasuo,the Unforgiven,"Fighter,Assassin",175,10,8,4,4,590,60,32,345,"Fighter,Assassin"
+Yone,the Unforgotten,"Fighter,Assassin",175,8,8,4,4,620,60,32,345,"Fighter,Assassin"
+Yorick,Shepherd of Souls,"Fighter,Tank",175,6,6,6,4,650,62,32,340,"Fighter,Tank"
+Yunara,the Unbroken Faith,Marksman,575,4,9,2,0,600,56,30,325,Marksman
+Yuumi,the Magical Cat,"Support,Mage",425,2,5,1,8,500,49,25,330,"Support,Mage"
+Zac,the Secret Weapon,"Tank,Fighter",175,8,3,7,7,685,60,32,340,"Tank,Fighter"
+Zed,the Master of Shadows,Assassin,125,7,9,2,1,654,63,29,345,Assassin
+Zeri,The Spark of Zaun,Marksman,500,6,8,5,3,600,56,30,330,Marksman
+Ziggs,the Hexplosives Expert,Mage,550,4,2,4,9,606,55,30,325,Mage
+Zilean,the Chronokeeper,"Support,Mage",550,6,2,5,8,574,52,30,335,"Support,Mage"
+Zoe,the Aspect of Twilight,Mage,550,5,1,7,8,630,58,30,340,Mage
+Zyra,Rise of the Thorns,"Mage,Support",575,7,4,3,8,574,53,30,340,"Mage,Support"
